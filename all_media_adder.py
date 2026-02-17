@@ -9,6 +9,7 @@ import inquirer
 
 class UserCancel(Exception): pass
 
+
 class MediaEntry(TypedDict):
     title: str
     series: str
@@ -17,8 +18,11 @@ class MediaEntry(TypedDict):
     title_override: str | None
 
 
-def add_entry(existing_json: dict[str, list[MediaEntry]]):
-    categories = list(existing_json.keys())
+def add_entry(
+    json_data: dict[str, list[MediaEntry]],
+    include_title_override: bool = False,
+):
+    categories = list(json_data.keys())
     questions = [
         inquirer.List(
             name='category',
@@ -29,38 +33,77 @@ def add_entry(existing_json: dict[str, list[MediaEntry]]):
             name='title',
             message='Title'
         ),
-        inquirer.Text(
-            name='series',
-            message='Series'
-        ),
+        # inquirer.Text(
+        #     name='series',
+        #     message='Series'
+        # ),
         inquirer.Text(
             name='year_experienced',
             message='Year Experienced',
             validate=lambda _, x: re.match(r'^$|\d{4}', x) 
-        ),
-        inquirer.Text(
-            name='title_override',
-            message='Title Override',
-        ),
+        )
     ]
+    if include_title_override:
+        questions.append(
+            inquirer.Text(
+                name='title_override',
+                message='Title Override',
+            ),
+        )
     answers = inquirer.prompt(questions)
     if answers is None:
         raise UserCancel
     answers = cast(dict[str, str], answers)
     category = answers['category'].strip()
     title = answers['title'].strip()
-    series = answers['series'].strip() or title
     year_experienced_raw = answers['year_experienced'].strip()
     year_experienced = (int(year_experienced_raw)
                         if year_experienced_raw else None)
-    title_override = answers['title_override'].strip() or None
-    existing_category = existing_json[category]
+    title_override = answers.get('title_override', '').strip() or None
+    existing_category = json_data[category]
+
     if any(
-        entry['title'] == title and entry['series'] == series
+        entry['title'] == title
         for entry in existing_category
     ):
         print('Already exists.')
         return
+
+    existing_franchises = {series_name for entry in existing_category
+                           if (series_name := entry['series']) is not None}
+    possible_franchises = [series_name for series_name in existing_franchises
+                           if series_name in title]
+    series_temp = None
+    if possible_franchises:
+        series_options = possible_franchises + ['NONE', 'CUSTOM']
+        questions = [
+            inquirer.List(
+                name='series',
+                message="Series",
+                choices=series_options,
+            ),
+        ]
+        answers = inquirer.prompt(questions)
+        if answers is None:
+            raise UserCancel
+        series_temp = answers['series']
+        if series_temp == 'NONE':
+            series_temp = title
+        elif series_temp == 'CUSTOM':
+            series_temp = None
+    if series_temp is None:
+        questions = [
+            inquirer.Text(
+                name='series',
+                message='Series',
+            ),
+        ]
+        answers = inquirer.prompt(questions)
+        if answers is None:
+            raise UserCancel
+        series_temp = answers['series'] or title
+
+    series = series_temp
 
     # TODO: Show warning if title or series exists in different category
 
@@ -95,7 +138,7 @@ def add_entry(existing_json: dict[str, list[MediaEntry]]):
         title_override=title_override,
         
     )
-    existing_json[category].append(new_entry)
+    json_data[category].append(new_entry)
 
 
 def create_markdown(json_data: Mapping[str, Sequence[MediaEntry]]) -> None:
