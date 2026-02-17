@@ -36,7 +36,7 @@ def add_entry(
         # inquirer.Text(
         #     name='year_experienced',
         #     message='Year Experienced',
-        #     validate=lambda _, x: re.match(r'^$|\d{4}', x) 
+        #     validate=lambda _, x: re.match(r'^$|\d{4}', x)
         # )
     ]
     if include_title_override:
@@ -144,7 +144,6 @@ def add_entry(
         series_sort=series_sort,
         # year_experienced=year_experienced,
         title_override=title_override,
-        
     )
     json_data[category].append(new_entry)
 
@@ -171,7 +170,7 @@ def create_markdown(json_data: Mapping[str, Sequence[MediaEntry]]) -> None:
                         title_to_use = f'{rest}, {article}'
                     f.write(f'- {title_to_use}\n')
             f.write('\n')
-    
+
 
 def main():
     raw_file = Path('all_media_raw.json')
@@ -182,13 +181,15 @@ def main():
             add_entry(existing_json)
             res = input('Done! Add another? (y/n): ')
             if res.casefold() != 'y':
-                break    
-        create_markdown(existing_json)
-        with raw_file.open(mode='w', encoding='utf-8') as f:
-            json.dump(existing_json, f, indent=4)
-        print('Saved!')
+                break
     except UserCancel:
-        return
+        res = input('Save unsaved work? (y/n): ')
+        if res.casefold() != 'y':
+            return
+    create_markdown(existing_json)
+    with raw_file.open(mode='w', encoding='utf-8') as f:
+        json.dump(existing_json, f, indent=4)
+    print('Saved!')
 
 
 if __name__ == '__main__':

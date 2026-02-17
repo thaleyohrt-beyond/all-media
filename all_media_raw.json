@@ -125,6 +125,66 @@
             "series": "The Legend of Zelda",
             "series_sort": 5,
             "title_override": null
+        },
+        {
+            "title": "L.A. Noire",
+            "series": "L.A. Noire",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Klonoa",
+            "series": "Klonoa",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Logic Bombs",
+            "series": "Logic Bombs",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Luigi's Mansion 3",
+            "series": "Luigi's Mansion",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Luigi's Mansion: Dark Moon",
+            "series": "Luigi's Mansion",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mario & Sonic at the Olympic Games",
+            "series": "Mario & Sonic",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mario & Sonic at the Olympic Winter Games",
+            "series": "Mario & Sonic",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart DS",
+            "series": "Mario Kart",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart 64",
+            "series": "Mario Kart",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart: Double Dash!!",
+            "series": "Mario Kart",
+            "series_sort": 1,
+            "title_override": null
         }
     ],
     "TV": [],

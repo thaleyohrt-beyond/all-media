@@ -16,6 +16,16 @@
 - Danganronpa: Trigger Happy Havoc
 - Danganronpa 2: Goodbye Despair
 - Danganronpa V3: Killing Harmony
+- Klonoa
+- L.A. Noire
+- Logic Bombs
+- Luigi's Mansion: Dark Moon
+- Luigi's Mansion 3
+- Mario & Sonic at the Olympic Games
+- Mario & Sonic at the Olympic Winter Games
+- Mario Kart 64
+- Mario Kart: Double Dash!!
+- Mario Kart DS
 - Sonic the Hedgehog
 - Sonic the Hedgehog 2
 - Sonic CD
