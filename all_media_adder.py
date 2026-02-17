@@ -14,7 +14,7 @@ class MediaEntry(TypedDict):
     title: str
     series: str
     series_sort: int
-    year_experienced: int | None
+    # year_experienced: int | None
     title_override: str | None
 
 
@@ -34,14 +34,10 @@ def add_entry(
             message='Title'
         ),
         # inquirer.Text(
-        #     name='series',
-        #     message='Series'
-        # ),
-        inquirer.Text(
-            name='year_experienced',
-            message='Year Experienced',
-            validate=lambda _, x: re.match(r'^$|\d{4}', x) 
-        )
+        #     name='year_experienced',
+        #     message='Year Experienced',
+        #     validate=lambda _, x: re.match(r'^$|\d{4}', x) 
+        # )
     ]
     if include_title_override:
         questions.append(
@@ -56,9 +52,9 @@ def add_entry(
     answers = cast(dict[str, str], answers)
     category = answers['category'].strip()
     title = answers['title'].strip()
-    year_experienced_raw = answers['year_experienced'].strip()
-    year_experienced = (int(year_experienced_raw)
-                        if year_experienced_raw else None)
+    # year_experienced_raw = answers['year_experienced'].strip()
+    # year_experienced = (int(year_experienced_raw)
+    #                     if year_experienced_raw else None)
     title_override = answers.get('title_override', '').strip() or None
     existing_category = json_data[category]
 
@@ -105,16 +101,16 @@ def add_entry(
 
     series = series_temp
 
-    # TODO: Show warning if title or series exists in different category
-
-    placement_index = 0
+    series_sort = 0
     if series:
         existing_series = [entry for entry in existing_category
                            if entry['series'] == series]
         existing_series.sort(key=lambda d: d['series_sort'])
         if existing_series:
-            series_titles = [entry['title'] for entry in existing_series]
-            options = ['At the start'] + series_titles
+            title_to_entry_map = {entry['title']: entry
+                                  for entry in existing_series}
+            series_titles = list(title_to_entry_map.keys())
+            options = ['At the start', 'At the end'] + series_titles
             questions = [
                 inquirer.List(
                     name='placement',
@@ -126,15 +122,27 @@ def add_entry(
             if series_answer is None:
                 raise UserCancel
             placement = series_answer['placement']
-            placement_index = options.index(placement)
-            for entry in existing_series:
-                if entry['series_sort'] >= placement_index:
-                    entry['series_sort'] += 1
+            if placement == 'At the start':
+                series_titles.insert(0, title)
+            elif placement == 'At the end':
+                series_titles.append(title)
+            else:
+                placement_index = series_titles.index(placement)
+                placement_index += 1
+                series_titles.insert(placement_index, title)
+
+            for i, entry_title in enumerate(series_titles):
+                entry = title_to_entry_map.get(entry_title)
+                if entry is None:
+                    series_sort = i
+                else:
+                    entry['series_sort'] = i
+
     new_entry = MediaEntry(
         title=title,
         series=series,
-        series_sort=placement_index,
-        year_experienced=year_experienced,
+        series_sort=series_sort,
+        # year_experienced=year_experienced,
         title_override=title_override,
         
     )
@@ -142,30 +150,6 @@ def add_entry(
 
 
 def create_markdown(json_data: Mapping[str, Sequence[MediaEntry]]) -> None:
-    """
-    Create a Markdown file in this format:
-    
-    # All Media
-
-    ## [category name]
-    - Entry title
-    ...
-
-    ## [category name 2]
-    ...
-
-    Within each category, items should be sorted alphabetically
-    Items that start with "The", "A", or "An" should be reformatted
-    so that the article is at the end.
-    For example, "The Legend of Zelda: Breath of the Wild" should be
-    formatted and sorted as "Legend of Zelda: Breath of the Wild, The".
-    However, if "title_override" is provided, use that directly.
-
-    Series should be grouped together, ignoring alphabetical sort.
-    Within each series, use series_sort instead. Within the overall
-    list, the series should be sorted at the alphabetical location
-    of the title of the entry with the smallest series_sort (usually 0).
-    """
     with open('all_media.md', mode='w', encoding='utf8') as f:
         f.write('# All Media\n\n')
         for category, entries in json_data.items():

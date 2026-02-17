@@ -23,6 +23,9 @@
 - Legend of Zelda, The
 - Zelda II: The Adventure of Link
 - Legend of Zelda: A Link to the Past, The
+- Legend of Zelda: Link's Awakening DX, The
+- Legend of Zelda: Ocarina of Time 3D, The
+- Legend of Zelda: Majora's Mask 3D, The
 
 ## TV
 

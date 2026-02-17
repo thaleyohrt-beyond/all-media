@@ -22,105 +22,108 @@
             "title": "AirXonix",
             "series": "AirXonix",
             "series_sort": 0,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "AI: The Somnium Files",
             "series": "AI: The Somnium Files",
             "series_sort": 0,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "AI: The Somnium Files - nirvanA Initiative",
             "series": "AI: The Somnium Files",
             "series_sort": 1,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Angry Birds",
             "series": "Angry Birds",
             "series_sort": 0,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Animal Crossing: New Horizons",
             "series": "Animal Crossing",
             "series_sort": 0,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Sonic the Hedgehog",
             "series": "Sonic",
             "series_sort": 0,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Sonic the Hedgehog 2",
             "series": "Sonic",
             "series_sort": 1,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Sonic 3 & Knuckles",
             "series": "Sonic",
             "series_sort": 3,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Sonic CD",
             "series": "Sonic",
             "series_sort": 2,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Danganronpa V3: Killing Harmony",
             "series": "Danganronpa",
             "series_sort": 2,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Danganronpa: Trigger Happy Havoc",
             "series": "Danganronpa",
             "series_sort": 0,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Danganronpa 2: Goodbye Despair",
             "series": "Danganronpa",
             "series_sort": 1,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "The Legend of Zelda",
             "series": "The Legend of Zelda",
             "series_sort": 0,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "Zelda II: The Adventure of Link",
             "series": "The Legend of Zelda",
             "series_sort": 1,
-            "year_experienced": null,
             "title_override": null
         },
         {
             "title": "The Legend of Zelda: A Link to the Past",
             "series": "The Legend of Zelda",
             "series_sort": 2,
-            "year_experienced": null,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Ocarina of Time 3D",
+            "series": "The Legend of Zelda",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Link's Awakening DX",
+            "series": "The Legend of Zelda",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Majora's Mask 3D",
+            "series": "The Legend of Zelda",
+            "series_sort": 5,
             "title_override": null
         }
     ],
