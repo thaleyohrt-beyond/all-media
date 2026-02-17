@@ -1232,7 +1232,7 @@
         },
         {
             "title": "The Sixth Sense",
-            "series": "Unbreakable",
+            "series": "The Sixth Sense",
             "series_sort": 0,
             "title_override": null
         },
@@ -3957,6 +3957,18 @@
             "series": "Zero Escape",
             "series_sort": 2,
             "title_override": null
+        },
+        {
+            "title": "Cyberpunk 2077",
+            "series": "Cyberpunk 2077",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
+            "series": "Pok\u00e9mon Mystery Dungeon",
+            "series_sort": 0,
+            "title_override": null
         }
     ],
     "TV": [
@@ -4902,13 +4914,13 @@
     "Anime": [
         {
             "title": "A Certain Magical Index",
-            "series": "A Certain... (Index/Railgun)",
+            "series": "A Certain (Index/Railgun)",
             "series_sort": 0,
             "title_override": null
         },
         {
             "title": "A Certain Scientific Railgun",
-            "series": "A Certain... (Index/Railgun)",
+            "series": "A Certain (Index/Railgun)",
             "series_sort": 1,
             "title_override": null
         },
@@ -5581,6 +5593,18 @@
         {
             "title": "Roll Over and Die",
             "series": "Roll Over and Die",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Secrets of the Silent Witch",
+            "series": "Secrets of the Silent Witch",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "I'm in Love with the Villainess",
+            "series": "I'm in Love with the Villainess",
             "series_sort": 0,
             "title_override": null
         }

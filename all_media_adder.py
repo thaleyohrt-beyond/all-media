@@ -152,8 +152,11 @@ def add_entry(
     json_data[category].append(new_entry)
 
 
-def create_markdown(json_data: Mapping[str, Sequence[MediaEntry]]) -> None:
-    with open('all_media.md', mode='w', encoding='utf8') as f:
+def create_markdown(
+    json_data: Mapping[str, Sequence[MediaEntry]],
+    export_path: str = 'all_media.md',
+) -> None:
+    with open(export_path, mode='w', encoding='utf8') as f:
         f.write('# All Media\n\n')
         for category, entries in json_data.items():
             f.write(f'## {category}\n')
@@ -163,6 +166,9 @@ def create_markdown(json_data: Mapping[str, Sequence[MediaEntry]]) -> None:
             def title_to_sort_by(group: list[MediaEntry]) -> str:
                 group.sort(key=lambda d: d['series_sort'])
                 title = group[0].get('series') or group[0]['title']
+                if title.startswith(('The ', 'A ', 'An ')):
+                    article, rest = title.split(' ', 1)
+                    title = f'{rest}, {article}'
                 return title.casefold()
             sorted_series = sorted(
                 series_groups.values(),
@@ -192,7 +198,8 @@ def main():
         res = input('Save unsaved work? (y/n): ')
         if res.casefold() != 'y':
             return
-    create_markdown(existing_json)
+    export_path = r'C:\Users\tomas\My Drive\Personal\Documents\All Media.md'
+    create_markdown(existing_json, export_path=export_path)
     with raw_file.open(mode='w', encoding='utf-8') as f:
         json.dump(existing_json, f, indent=4)
     print('Saved!')
