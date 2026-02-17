@@ -3,26 +3,1932 @@
         {
             "title": "10 Cloverfield Lane",
             "series": "Cloverfield",
-            "series_sort": 0
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "12 Angry Men",
+            "series": "12 Angry Men",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "12 Monkeys",
+            "series": "12 Monkeys",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "127 Hours",
+            "series": "127 Hours",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "1408",
+            "series": "1408",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "2012",
+            "series": "2012",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Adventures of Sharkboy and Lavagirl",
+            "series": "The Adventures of Sharkboy and Lavagirl",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "After Earth",
+            "series": "After Earth",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Airplane!",
+            "series": "Airplane!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Austin Powers: International Man of Mystery",
+            "series": "Austin Powers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Austin Powers: The Spy Who Shagged Me",
+            "series": "Austin Powers",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Austin Powers in Goldmember",
+            "series": "Austin Powers",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Avatar",
+            "series": "Avatar",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Avatar: The Way of Water",
+            "series": "Avatar",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Avengers",
+            "series": "The Avengers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Back to the Future",
+            "series": "Back to the Future",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Back to the Future Part II",
+            "series": "Back to the Future",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Back to the Future Part III",
+            "series": "Back to the Future",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Bad Santa",
+            "series": "Bad Santa",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Barbie",
+            "series": "Barbie",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Batman Begins",
+            "series": "The Dark Knight",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Being John Malkovich",
+            "series": "Being John Malkovich",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Best in Show",
+            "series": "Best in Show",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "BlacKkKlansman",
+            "series": "BlacKkKlansman",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Black Swan",
+            "series": "Black Swan",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bob Marley: One Love",
+            "series": "Bob Marley: One Love",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A Brony Tale",
+            "series": "A Brony Tale",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bruce Almighty",
+            "series": "Bruce Almighty",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Butterfly Effect",
+            "series": "The Butterfly Effect",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Cabin in the Woods",
+            "series": "The Cabin in the Woods",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Capitalism: A Love Story",
+            "series": "Capitalism: A Love Story",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cast Away",
+            "series": "Cast Away",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Catch Me If You Can",
+            "series": "Catch Me If You Can",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Charlie and the Chocolate Factory",
+            "series": "Charlie and the Chocolate Factory",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Charlie's Angels",
+            "series": "Charlie's Angels",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Children of Men",
+            "series": "Children of Men",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "series": "The Chronicles of Narnia",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Circle",
+            "series": "Circle",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Click",
+            "series": "Click",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Clockstoppers",
+            "series": "Clockstoppers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Close Encounters of the Third Kind",
+            "series": "Close Encounters of the Third Kind",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cloud Atlas",
+            "series": "Cloud Atlas",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cloverfield",
+            "series": "Cloverfield",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Cloverfield Paradox",
+            "series": "Cloverfield",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Clue",
+            "series": "Clue",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Color Purple (2023)",
+            "series": "The Color Purple",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Core",
+            "series": "The Core",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Crank",
+            "series": "Crank",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Crazy Rich Asians",
+            "series": "Crazy Rich Asians",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Dark Knight",
+            "series": "The Dark Knight",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Dark Knight Rises",
+            "series": "The Dark Knight",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Day After Tomorrow",
+            "series": "The Day After Tomorrow",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dead Poets Society",
+            "series": "Dead Poets Society",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Deadpool 2",
+            "series": "Deadpool",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Deadpool and Wolverine",
+            "series": "Deadpool",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Death on the Nile",
+            "series": "Hercule Poirot (Films)",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Death to 2020",
+            "series": "Death to 2020",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Devil",
+            "series": "Devil",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Disaster Artist",
+            "series": "The Disaster Artist",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "District 9",
+            "series": "District 9",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "DodgeBall: A True Underdog Story",
+            "series": "DodgeBall",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Edge of Tomorrow",
+            "series": "Edge of Tomorrow",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Elf",
+            "series": "Elf",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Enchanted",
+            "series": "Enchanted",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ender's Game",
+            "series": "Ender's Game",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Evan Almighty",
+            "series": "Bruce Almighty",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Ex Machina",
+            "series": "Ex Machina",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Exorcist",
+            "series": "The Exorcist",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fantastic Four (2005)",
+            "series": "Fantastic Four",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fantastic Four: Rise of the Silver Surfer",
+            "series": "Fantastic Four",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Forgotten",
+            "series": "The Forgotten",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Freaky Friday",
+            "series": "Freaky Friday",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Free Guy",
+            "series": "Free Guy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Garfield: The Movie",
+            "series": "Garfield",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "George of the Jungle",
+            "series": "George of the Jungle",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Glass",
+            "series": "Unbreakable",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Glass Onion",
+            "series": "Knives Out",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Gods Must Be Crazy",
+            "series": "The Gods Must Be Crazy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Gods Must Be Crazy II",
+            "series": "The Gods Must Be Crazy",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Godzilla (1998)",
+            "series": "Godzilla",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Golden Compass",
+            "series": "The Golden Compass",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Grand Budapest Hotel",
+            "series": "The Grand Budapest Hotel",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gravity",
+            "series": "Gravity",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Groundhog Day",
+            "series": "Groundhog Day",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Grudge",
+            "series": "The Grudge",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Hangover",
+            "series": "The Hangover",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Happening",
+            "series": "The Happening",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Philosopher's Stone",
+            "series": "Harry Potter",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "series": "Harry Potter",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "series": "Harry Potter",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Goblet of Fire",
+            "series": "Harry Potter",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Order of the Phoenix",
+            "series": "Harry Potter",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Half-Blood Prince",
+            "series": "Harry Potter",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Deathly Hallows - Part 1",
+            "series": "Harry Potter",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Deathly Hallows - Part 2",
+            "series": "Harry Potter",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "A Haunting in Venice",
+            "series": "Hercule Poirot (Films)",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "series": "The Hitchhiker's Guide to the Galaxy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Hobbit: An Unexpected Journey",
+            "series": "The Hobbit",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Home Alone",
+            "series": "Home Alone",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Home Alone 2",
+            "series": "Home Alone",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Honey, We Shrunk Ourselves",
+            "series": "Honey, I Shrunk the Kids",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Hunger Games",
+            "series": "The Hunger Games",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Hunger Games: Catching Fire",
+            "series": "The Hunger Games",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Hunger Games: Mockingjay - Part 1",
+            "series": "The Hunger Games",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Hunger Games: Mockingjay - Part 2",
+            "series": "The Hunger Games",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "I Am Legend",
+            "series": "I Am Legend",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "I, Robot",
+            "series": "I, Robot",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Imaginarium of Doctor Parnassus",
+            "series": "The Imaginarium of Doctor Parnassus",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Inception",
+            "series": "Inception",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "An Inconvenient Truth",
+            "series": "An Inconvenient Truth",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Independence Day",
+            "series": "Independence Day",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Raiders of the Lost Ark",
+            "series": "Indiana Jones",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Indiana Jones and the Temple of Doom",
+            "series": "Indiana Jones",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Indiana Jones and the Last Crusade",
+            "series": "Indiana Jones",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+            "series": "Indiana Jones",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Indiana Jones and the Dial of Destiny",
+            "series": "Indiana Jones",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "The Internship",
+            "series": "The Internship",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Interstellar",
+            "series": "Interstellar",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Iron Man",
+            "series": "Iron Man",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Island",
+            "series": "The Island",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "It's a Wonderful Life",
+            "series": "It's a Wonderful Life",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Jaws",
+            "series": "Jaws",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Joker",
+            "series": "Joker",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Jumanji",
+            "series": "Jumanji",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Jumper",
+            "series": "Jumper",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Jungle Book",
+            "series": "The Jungle Book",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Jungle Cruise",
+            "series": "Jungle Cruise",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Juno",
+            "series": "Juno",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kangaroo Jack",
+            "series": "Kangaroo Jack",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The King's Speech",
+            "series": "The King's Speech",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Knives Out",
+            "series": "Knives Out",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Knock at the Cabin",
+            "series": "Knock at the Cabin",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Knowing",
+            "series": "Knowing",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Last Airbender",
+            "series": "The Last Airbender",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Life of Pi",
+            "series": "Life of Pi",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Life of the Party",
+            "series": "Life of the Party",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Lion",
+            "series": "Lion",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Little Miss Sunshine",
+            "series": "Little Miss Sunshine",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Logan",
+            "series": "Wolverine",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Looney Tunes: Back in Action",
+            "series": "Looney Tunes",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "series": "The Lord of the Rings",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Lord of the Rings: The Two Towers",
+            "series": "The Lord of the Rings",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Lord of the Rings: The Return of the King",
+            "series": "The Lord of the Rings",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Martian",
+            "series": "The Martian",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mary Poppins",
+            "series": "Mary Poppins",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mary Poppins Returns",
+            "series": "Mary Poppins",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Mask",
+            "series": "The Mask",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Master of Disguise",
+            "series": "The Master of Disguise",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Matrix",
+            "series": "The Matrix",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Matrix Reloaded",
+            "series": "The Matrix",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Matrix Revolutions",
+            "series": "The Matrix",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Memento",
+            "series": "Memento",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Men in Black",
+            "series": "Men in Black",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Men in Black II",
+            "series": "Men in Black",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Men in Black 3",
+            "series": "Men in Black",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Men Who Stare at Goats",
+            "series": "The Men Who Stare at Goats",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Minority Report",
+            "series": "The Minority Report",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Monty Python and the Holy Grail",
+            "series": "Monty Python",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Monty Python's Life of Brian",
+            "series": "Monty Python",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Moon",
+            "series": "Moon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Murder on the Orient Express",
+            "series": "Hercule Poirot (Films)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "National Treasure",
+            "series": "National Treasure",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "National Treasure: Book of Secrets",
+            "series": "National Treasure",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Night at the Museum",
+            "series": "Night at the Museum",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Now You See Me",
+            "series": "Now You See Me",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Number 23",
+            "series": "The Number 23",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Osmosis Jones",
+            "series": "Osmosis Jones",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Pacifier",
+            "series": "The Pacifier",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "series": "Pirates of the Caribbean",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pirates of the Caribbean: Dead Man's Chest",
+            "series": "Pirates of the Caribbean",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Pirates of the Caribbean: At World's End",
+            "series": "Pirates of the Caribbean",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Planet of the Apes",
+            "series": "Planet of the Apes",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Planet of the Apes (2001)",
+            "series": "Planet of the Apes",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Rise of the Planet of the Apes",
+            "series": "Planet of the Apes",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Dawn of the Planet of the Apes",
+            "series": "Planet of the Apes",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Kingdom of the Planet of the Apes",
+            "series": "Planet of the Apes",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Poltergeist",
+            "series": "Poltergeist",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Predator",
+            "series": "Predator",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Prestige",
+            "series": "The Prestige",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Prince of Persia: The Sands of Time",
+            "series": "Prince of Persia",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rat Race",
+            "series": "Rat Race",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ready or Not",
+            "series": "Ready or Not",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ready Player One",
+            "series": "Ready Player One",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Richie Rich's Christmas Wish",
+            "series": "Richie Rich",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Romeo + Juliet",
+            "series": "Romeo + Juliet",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Running Man",
+            "series": "The Running Man",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Santa Clause",
+            "series": "The Santa Clause",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scary Movie",
+            "series": "Scary Movie",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scary Movie 2",
+            "series": "Scary Movie",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Scary Movie 3",
+            "series": "Scary Movie",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Scary Movie 4",
+            "series": "Scary Movie",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "School of Rock",
+            "series": "School of Rock",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scooby-Doo",
+            "series": "Scooby-Doo (Live Action)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scooby-Doo 2: Monsters Unleashed",
+            "series": "Scooby-Doo (Live Action)",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Scream",
+            "series": "Scream",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scream 2",
+            "series": "Scream",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Scream 3",
+            "series": "Scream",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Scream 4",
+            "series": "Scream",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Scream (2022)",
+            "series": "Scream",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Scream VI",
+            "series": "Scream",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "The Secret",
+            "series": "The Secret",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A Series of Unfortunate Events",
+            "series": "A Series of Unfortunate Events",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Shaun of the Dead",
+            "series": "Shaun of the Dead",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Shutter Island",
+            "series": "Shutter Island",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Signs",
+            "series": "Signs",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Sixth Sense",
+            "series": "Unbreakable",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sky High",
+            "series": "Sky High",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Slumdog Millionaire",
+            "series": "Slumdog Millionaire",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Social Network",
+            "series": "The Social Network",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Source Code",
+            "series": "Source Code",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spaceballs",
+            "series": "Spaceballs",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Space Jam",
+            "series": "Space Jam",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Speed",
+            "series": "Speed",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spider-Man",
+            "series": "Spider-Man (Raimi)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spider-Man 2",
+            "series": "Spider-Man (Raimi)",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Spider-Man 3",
+            "series": "Spider-Man (Raimi)",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Split",
+            "series": "Unbreakable",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Spy Kids",
+            "series": "Spy Kids",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spy Kids 2: The Island of Lost Dreams",
+            "series": "Spy Kids",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Spy Kids 3D: Game Over",
+            "series": "Spy Kids",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Stargate",
+            "series": "Stargate",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode I: The Phantom Menace",
+            "series": "Star Wars",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode II: Attack of the Clones",
+            "series": "Star Wars",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode III: Revenge of the Sith",
+            "series": "Star Wars",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode IV: A New Hope",
+            "series": "Star Wars",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode V: The Empire Strikes Back",
+            "series": "Star Wars",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode VI: Return of the Jedi",
+            "series": "Star Wars",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode VII: The Force Awakens",
+            "series": "Star Wars",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode VIII: The Last Jedi",
+            "series": "Star Wars",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode IX: The Rise of Skywalker",
+            "series": "Star Wars",
+            "series_sort": 8,
+            "title_override": null
+        },
+        {
+            "title": "Rogue One: A Star Wars Story",
+            "series": "Star Wars",
+            "series_sort": 9,
+            "title_override": null
+        },
+        {
+            "title": "Solo: A Star Wars Story",
+            "series": "Star Wars",
+            "series_sort": 10,
+            "title_override": null
+        },
+        {
+            "title": "Stranger than Fiction",
+            "series": "Stranger than Fiction",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super 8",
+            "series": "Super 8",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Superman",
+            "series": "Superman",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Superman 2",
+            "series": "Superman",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Superman Returns",
+            "series": "Superman",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Super Size Me",
+            "series": "Super Size Me",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Terminator",
+            "series": "Terminator",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Terminator 2: Judgment Day",
+            "series": "Terminator",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Terminator 3: Rise of the Machines",
+            "series": "Terminator",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Thing",
+            "series": "The Thing",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "This Is Spinal Tap",
+            "series": "This Is Spinal Tap",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "This Is the End",
+            "series": "This Is the End",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "series": "To Kill a Mockingbird",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Total Recall",
+            "series": "Total Recall",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Transformers",
+            "series": "Transformers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Triangle",
+            "series": "The Triangle",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tropic Thunder",
+            "series": "Tropic Thunder",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Twilight",
+            "series": "Twilight",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Twilight: New Moon",
+            "series": "Twilight",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Unbreakable",
+            "series": "Unbreakable",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Village",
+            "series": "The Village",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Visit",
+            "series": "The Visit",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "War of the Worlds",
+            "series": "War of the Worlds",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Waterworld",
+            "series": "Waterworld",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Wedding Crashers",
+            "series": "Wedding Crashers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "What the BLEEP Do We Know!?",
+            "series": "What the BLEEP Do We Know!?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Where in the World Is Osama Bin Laden?",
+            "series": "Where in the World Is Osama Bin Laden?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Where the Wild Things Are",
+            "series": "Where the Wild Things Are",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Who Framed Roger Rabbit",
+            "series": "Who Framed Roger Rabbit",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Willy Wonka & the Chocolate Factory",
+            "series": "Willy Wonka & the Chocolate Factory",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Wizard of Oz",
+            "series": "The Wizard of Oz",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The World's End",
+            "series": "The World's End",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "X-Men",
+            "series": "X-Men",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "X2: X-Men United",
+            "series": "X-Men",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "X-Men: The Last Stand",
+            "series": "X-Men",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "X-Men Origins: Wolverine",
+            "series": "Wolverine",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "X-Men: First Class",
+            "series": "X-Men",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "X-Men: Days of Future Past",
+            "series": "X-Men",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "X-Men: Apocalypse",
+            "series": "X-Men",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Zero Dark Thirty",
+            "series": "Zero Dark Thirty",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Wake Up Dead Man",
+            "series": "Knives Out",
+            "series_sort": 2,
+            "title_override": null
         }
     ],
-    "Animated Movies": [],
+    "Animated Movies": [
+        {
+            "title": "The Adventures of Tintin: The Secret of the Unicorn",
+            "series": "Tintin",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Alice in Wonderland",
+            "series": "Alice in Wonderland",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Charlotte's Web",
+            "series": "Charlotte's Web",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Coraline",
+            "series": "Coraline",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bionicle: Mask of Light",
+            "series": "Bionicle",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Brave Little Toaster",
+            "series": "The Brave Little Toaster",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Choose Your Own Adventure: The Abominable Snowman",
+            "series": "Choose Your Own Adventure",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Finding Nemo",
+            "series": "Finding Nemo",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Frozen",
+            "series": "Frozen",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Hoodwinked",
+            "series": "Hoodwinked",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Incredibles",
+            "series": "The Incredibles",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Iron Giant",
+            "series": "The Iron Giant",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Jungle Book",
+            "series": "The Jungle Book",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Lion King",
+            "series": "The Lion King",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Little Mermaid",
+            "series": "The Little Mermaid",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Monster House",
+            "series": "Monster House",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Monsters, Inc.",
+            "series": "Monsters, Inc.",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Muppet Treasure Island",
+            "series": "The Muppets",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "My Little Pony: The Movie",
+            "series": "My Little Pony",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "My Little Pony: A New Generation",
+            "series": "My Little Pony",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Nightmare Before Christmas",
+            "series": "The Nightmare Before Christmas",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Peter Pan",
+            "series": "Peter Pan",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ratatouille",
+            "series": "Ratatouille",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scooby-Doo and the Cyber Chase",
+            "series": "Scooby-Doo (Animated)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scooby-Doo on Zombie Island",
+            "series": "Scooby-Doo (Animated)",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Shrek",
+            "series": "Shrek",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Shrek 2",
+            "series": "Shrek",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Shrek the Third",
+            "series": "Shrek",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Simpsons Movie",
+            "series": "The Simpsons",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spider-Man: Into the Spider-Verse",
+            "series": "Spider-Verse",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spider-Man: Across the Spider-Verse",
+            "series": "Spider-Verse",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Spirited Away",
+            "series": "Spirited Away",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Team America: World Police",
+            "series": "Team America: World Police",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Up",
+            "series": "Up",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "WALL-E",
+            "series": "WALL-E",
+            "series_sort": 0,
+            "title_override": null
+        }
+    ],
     "Games": [
         {
             "title": "13 Sentinels: Aegis Rim",
-            "series": "13 Sentinels",
-            "series_sort": 0
-        },
-        {
-            "title": "1000xResist",
-            "series": "1000xResist",
-            "series_sort": 0
-        },
-        {
-            "title": "AirXonix",
-            "series": "AirXonix",
+            "series": "13 Sentinels: Aegis Rim",
             "series_sort": 0,
             "title_override": null
+        },
+        {
+            "title": "1000xRESIST",
+            "series": "1000xRESIST",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A Day at Work",
+            "series": "A Day at Work",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Abduction! World Attack",
+            "series": "Abduction!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Phoenix Wright: Ace Attorney",
+            "series": "Ace Attorney",
+            "series_sort": 0,
+            "title_override": "Ace Attorney, Phoenix Wright:"
+        },
+        {
+            "title": "Phoenix Wright: Ace Attorney - Justice For All",
+            "series": "Ace Attorney",
+            "series_sort": 1,
+            "title_override": "Ace Attorney - Justice For All, Phoenix Wright:"
+        },
+        {
+            "title": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+            "series": "Ace Attorney",
+            "series_sort": 2,
+            "title_override": "Ace Attorney - Trials and Tribulations, Phoenix Wright:"
+        },
+        {
+            "title": "Ace Attorney Investigations: Miles Edgeworth",
+            "series": "Ace Attorney",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Ace Attorney Investigations: Prosecutor's Path",
+            "series": "Ace Attorney",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Apollo Justice: Ace Attorney",
+            "series": "Ace Attorney",
+            "series_sort": 5,
+            "title_override": "Ace Attorney, Apollo Justice:"
+        },
+        {
+            "title": "Phoenix Wright: Ace Attorney - Dual Destinies",
+            "series": "Ace Attorney",
+            "series_sort": 6,
+            "title_override": "Ace Attorney - Dual Destinies, Phoenix Wright:"
+        },
+        {
+            "title": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+            "series": "Ace Attorney",
+            "series_sort": 7,
+            "title_override": "Ace Attorney - Spirit of Justice, Phoenix Wright:"
+        },
+        {
+            "title": "The Great Ace Attorney Chronicles",
+            "series": "Ace Attorney",
+            "series_sort": 8,
+            "title_override": "Ace Attorney Chronicles, The Great"
         },
         {
             "title": "AI: The Somnium Files",
@@ -33,6 +1939,30 @@
         {
             "title": "AI: The Somnium Files - nirvanA Initiative",
             "series": "AI: The Somnium Files",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "AirXonix",
+            "series": "AirXonix",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "All the Right Type",
+            "series": "All the Right Type",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Alto's Adventure",
+            "series": "Alto's Adventure",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Alto's Odyssey",
+            "series": "Alto's Adventure",
             "series_sort": 1,
             "title_override": null
         },
@@ -49,33 +1979,105 @@
             "title_override": null
         },
         {
-            "title": "Sonic the Hedgehog",
-            "series": "Sonic",
+            "title": "Art Academy",
+            "series": "Art Academy",
             "series_sort": 0,
             "title_override": null
         },
         {
-            "title": "Sonic the Hedgehog 2",
-            "series": "Sonic",
+            "title": "Astral Chain",
+            "series": "Astral Chain",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Audio Trip",
+            "series": "Audio Trip",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Balatro",
+            "series": "Balatro",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Banjo-Kazooie",
+            "series": "Banjo-Kazooie",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bayonetta",
+            "series": "Bayonetta",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bayonetta 2",
+            "series": "Bayonetta",
             "series_sort": 1,
             "title_override": null
         },
         {
-            "title": "Sonic 3 & Knuckles",
-            "series": "Sonic",
-            "series_sort": 3,
+            "title": "Beat Saber",
+            "series": "Beat Saber",
+            "series_sort": 0,
             "title_override": null
         },
         {
-            "title": "Sonic CD",
-            "series": "Sonic",
-            "series_sort": 2,
+            "title": "Bonk's Adventure",
+            "series": "Bonk",
+            "series_sort": 0,
             "title_override": null
         },
         {
-            "title": "Danganronpa V3: Killing Harmony",
-            "series": "Danganronpa",
-            "series_sort": 2,
+            "title": "Breakout",
+            "series": "Breakout",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bugdom",
+            "series": "Bugdom",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Call of Duty 3",
+            "series": "Call of Duty",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cave Story",
+            "series": "Cave Story",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Celeste",
+            "series": "Celeste",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Crash Bash",
+            "series": "Crash Bandicoot",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "CrossCode",
+            "series": "CrossCode",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Crumble",
+            "series": "Crumble",
+            "series_sort": 0,
             "title_override": null
         },
         {
@@ -88,6 +2090,378 @@
             "title": "Danganronpa 2: Goodbye Despair",
             "series": "Danganronpa",
             "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Danganronpa V3: Killing Harmony",
+            "series": "Danganronpa",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Dash Dash World",
+            "series": "Dash Dash World",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dead Trigger",
+            "series": "Dead Trigger",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Diablo III",
+            "series": "Diablo",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Doom (2016)",
+            "series": "Doom",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Donkey Kong",
+            "series": "Donkey Kong",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Donkey Kong Country: Tropical Freeze",
+            "series": "Donkey Kong",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Donkey Kong Bananza",
+            "series": "Donkey Kong",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Ecco the Dolphin",
+            "series": "Ecco the Dolphin",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Elder Scrolls IV: Oblivion",
+            "series": "The Elder Scrolls",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim",
+            "series": "The Elder Scrolls",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Eleven Table Tennis",
+            "series": "Eleven Table Tennis",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Eversion",
+            "series": "Eversion",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "F-Zero: Maximum Velocity",
+            "series": "F-Zero",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fall Guys: Ultimate Knockout",
+            "series": "Fall Guys",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fallout 3",
+            "series": "Fallout",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Famicom Detective Club: The Missing Heir",
+            "series": "Famicom Detective Club",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Famicom Detective Club: The Girl Who Stands Behind",
+            "series": "Famicom Detective Club",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Fancy Pants Adventure",
+            "series": "Fancy Pants Adventure",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Final Fantasy III",
+            "series": "Final Fantasy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Final Fantasy VII",
+            "series": "Final Fantasy",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Final Fantasy XII: The Zodiac Age",
+            "series": "Final Fantasy",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Fire Emblem: Three Houses",
+            "series": "Fire Emblem",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fire Emblem Warriors: Three Hopes",
+            "series": "Fire Emblem",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Fortnite",
+            "series": "Fortnite",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Freddi Fish 3: The Case of the Stolen Conch Shell",
+            "series": "Freddi Fish",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "FreeCell",
+            "series": "FreeCell",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Frogger",
+            "series": "Frogger",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Full Tilt! Pinball",
+            "series": "Full Tilt! Pinball",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gears of War",
+            "series": "Gears of War",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ghost Trick: Phantom Detective",
+            "series": "Ghost Trick",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gnosia",
+            "series": "Gnosia",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gorogoa",
+            "series": "Gorogoa",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gran Turismo 2",
+            "series": "Gran Turismo",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Granny Smith",
+            "series": "Granny Smith",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Guitar Hero III: Legends of Rock",
+            "series": "Guitar Hero",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Guitar Hero: World Tour",
+            "series": "Guitar Hero",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Gyro",
+            "series": "Gyro",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Half-Life 2",
+            "series": "Half-Life",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Halo 2",
+            "series": "Halo",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Halo 3",
+            "series": "Halo",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Hotel Dusk: Room 215",
+            "series": "Hotel Dusk",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Hundred Line: Last Defense Academy",
+            "series": "The Hundred Line",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Hydro Thunder",
+            "series": "Hydro Thunder",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Hyrule Warriors: Age of Imprisonment",
+            "series": "Hyrule Warriors",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "I Expect You to Die",
+            "series": "I Expect You to Die",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "I Wanna Be the Guy",
+            "series": "I Wanna Be the Guy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ice Climber",
+            "series": "Ice Climber",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Immortals Fenyx Rising",
+            "series": "Immortals Fenyx Rising",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Impossible Quiz",
+            "series": "The Impossible Quiz",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "In Death: Unchained",
+            "series": "In Death",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Indiana Jones and the Emperor's Tomb",
+            "series": "Indiana Jones (Games)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Inside",
+            "series": "Inside",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Jet Moto",
+            "series": "Jet Moto",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kid Icarus: Uprising",
+            "series": "Kid Icarus",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kirby's Adventure",
+            "series": "Kirby",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kirby and the Amazing Mirror",
+            "series": "Kirby",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Kirby and the Forgotten Land",
+            "series": "Kirby",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Klonoa",
+            "series": "Klonoa",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Lab",
+            "series": "The Lab",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "L.A. Noire",
+            "series": "L.A. Noire",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Layton Brothers: Mystery Room",
+            "series": "Layton Brothers",
+            "series_sort": 0,
             "title_override": null
         },
         {
@@ -109,15 +2483,15 @@
             "title_override": null
         },
         {
-            "title": "The Legend of Zelda: Ocarina of Time 3D",
-            "series": "The Legend of Zelda",
-            "series_sort": 4,
-            "title_override": null
-        },
-        {
             "title": "The Legend of Zelda: Link's Awakening DX",
             "series": "The Legend of Zelda",
             "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Ocarina of Time 3D",
+            "series": "The Legend of Zelda",
+            "series_sort": 4,
             "title_override": null
         },
         {
@@ -127,14 +2501,110 @@
             "title_override": null
         },
         {
-            "title": "L.A. Noire",
-            "series": "L.A. Noire",
+            "title": "The Legend of Zelda: The Wind Waker",
+            "series": "The Legend of Zelda",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Four Swords",
+            "series": "The Legend of Zelda",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: The Minish Cap",
+            "series": "The Legend of Zelda",
+            "series_sort": 8,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Twilight Princess",
+            "series": "The Legend of Zelda",
+            "series_sort": 9,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Phantom Hourglass",
+            "series": "The Legend of Zelda",
+            "series_sort": 10,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Spirit Tracks",
+            "series": "The Legend of Zelda",
+            "series_sort": 11,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Skyward Sword",
+            "series": "The Legend of Zelda",
+            "series_sort": 12,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: A Link Between Worlds",
+            "series": "The Legend of Zelda",
+            "series_sort": 13,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "series": "The Legend of Zelda",
+            "series_sort": 14,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Link's Awakening (2019)",
+            "series": "The Legend of Zelda",
+            "series_sort": 15,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Tears of the Kingdom",
+            "series": "The Legend of Zelda",
+            "series_sort": 16,
+            "title_override": null
+        },
+        {
+            "title": "The Legend of Zelda: Echoes of Wisdom",
+            "series": "The Legend of Zelda",
+            "series_sort": 17,
+            "title_override": null
+        },
+        {
+            "title": "Lego Star Wars II: The Original Trilogy",
+            "series": "Lego Star Wars",
             "series_sort": 0,
             "title_override": null
         },
         {
-            "title": "Klonoa",
-            "series": "Klonoa",
+            "title": "Lego Star Wars: The Complete Saga",
+            "series": "Lego Star Wars",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Lego Star Wars: The Skywalker Saga",
+            "series": "Lego Star Wars",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Lemmings",
+            "series": "Lemmings",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Life Is Strange: True Colors",
+            "series": "Life Is Strange",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Line Rider",
+            "series": "Line Rider",
             "series_sort": 0,
             "title_override": null
         },
@@ -145,14 +2615,20 @@
             "title_override": null
         },
         {
+            "title": "Luigi's Mansion: Dark Moon",
+            "series": "Luigi's Mansion",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
             "title": "Luigi's Mansion 3",
             "series": "Luigi's Mansion",
             "series_sort": 1,
             "title_override": null
         },
         {
-            "title": "Luigi's Mansion: Dark Moon",
-            "series": "Luigi's Mansion",
+            "title": "Maple Story",
+            "series": "Maple Story",
             "series_sort": 0,
             "title_override": null
         },
@@ -169,27 +2645,3026 @@
             "title_override": null
         },
         {
-            "title": "Mario Kart DS",
-            "series": "Mario Kart",
-            "series_sort": 2,
-            "title_override": null
-        },
-        {
             "title": "Mario Kart 64",
             "series": "Mario Kart",
             "series_sort": 0,
             "title_override": null
         },
         {
-            "title": "Mario Kart: Double Dash!!",
+            "title": "Mario Kart: Super Circuit",
             "series": "Mario Kart",
             "series_sort": 1,
             "title_override": null
+        },
+        {
+            "title": "Mario Kart: Double Dash",
+            "series": "Mario Kart",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart DS",
+            "series": "Mario Kart",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart Wii",
+            "series": "Mario Kart",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart 7",
+            "series": "Mario Kart",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart 8 Deluxe",
+            "series": "Mario Kart",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Mario Kart World",
+            "series": "Mario Kart",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "Mario + Rabbids Kingdom Battle",
+            "series": "Mario + Rabbids",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mario vs. Donkey Kong",
+            "series": "Mario vs. Donkey Kong",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Master Detective Archives: Rain Code",
+            "series": "Master Detective Archives",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Medal of Honor",
+            "series": "Medal of Honor",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mega Man Battle Network",
+            "series": "Mega Man Battle Network",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mega Man Battle Network 2",
+            "series": "Mega Man Battle Network",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Metroid",
+            "series": "Metroid",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Metroid",
+            "series": "Metroid",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Metroid Fusion",
+            "series": "Metroid",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Metroid: Zero Mission",
+            "series": "Metroid",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Metroid Dread",
+            "series": "Metroid",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Metroid Prime",
+            "series": "Metroid Prime",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Metroid Prime 2: Echoes",
+            "series": "Metroid Prime",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Metroid Prime 3: Corruption",
+            "series": "Metroid Prime",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Metroid Prime 4: Beyond",
+            "series": "Metroid Prime",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Minecraft",
+            "series": "Minecraft",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Minesweeper",
+            "series": "Minesweeper",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Monster Hunter Rise",
+            "series": "Monster Hunter",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Moss",
+            "series": "Moss",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Murder by Numbers",
+            "series": "Murder by Numbers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "NES Open Tournament Golf",
+            "series": "NES Open Tournament Golf",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "NHL FaceOff '98",
+            "series": "NHL FaceOff",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Need for Speed 2",
+            "series": "Need for Speed",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "New Super Mario Bros.",
+            "series": "New Super Mario Bros.",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "New Super Mario Bros. Wii",
+            "series": "New Super Mario Bros.",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "New Super Mario Bros. 2",
+            "series": "New Super Mario Bros.",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "New Super Mario Bros. U Deluxe",
+            "series": "New Super Mario Bros.",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Nier: Automata",
+            "series": "Nier",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Nine Hours, Nine Persons, Nine Doors",
+            "series": "Zero Escape",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Nintendo Switch 2 Welcome Tour",
+            "series": "Nintendo Switch 2 Welcome Tour",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Nintendogs",
+            "series": "Nintendogs",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Octopath Traveler II",
+            "series": "Octopath Traveler",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Okami",
+            "series": "Okami",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Outer Wilds",
+            "series": "Outer Wilds",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pac-Man",
+            "series": "Pac-Man",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Panzer Dragoon",
+            "series": "Panzer Dragoon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Paper Mario",
+            "series": "Paper Mario",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Paper Mario: The Origami King",
+            "series": "Paper Mario",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Paranormasight",
+            "series": "Paranormasight",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Penny's Big Breakaway",
+            "series": "Penny's Big Breakaway",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Persona 5 Royal",
+            "series": "Persona",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Persona 5 Strikers",
+            "series": "Persona",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Pic-a-Pix Deluxe",
+            "series": "Pic-a-Pix",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pikmin 3",
+            "series": "Pikmin",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pikmin 4",
+            "series": "Pikmin",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Picross 3D",
+            "series": "Picross",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Picross 3D: Round 2",
+            "series": "Picross",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Picross DS",
+            "series": "Picross",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Picross e",
+            "series": "Picross e",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Picross e2",
+            "series": "Picross e",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Picross e3",
+            "series": "Picross e",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Picross e4",
+            "series": "Picross e",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Picross e5",
+            "series": "Picross e",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Picross e6",
+            "series": "Picross e",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Picross S",
+            "series": "Picross S",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Picross S2",
+            "series": "Picross S",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Picross S3",
+            "series": "Picross S",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Picross S4",
+            "series": "Picross S",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Picross S5",
+            "series": "Picross S",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Picross S6",
+            "series": "Picross S",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Pistol Whip",
+            "series": "Pistol Whip",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon LeafGreen",
+            "series": "Pok\u00e9mon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Pearl",
+            "series": "Pok\u00e9mon",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon SoulSilver",
+            "series": "Pok\u00e9mon",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon White",
+            "series": "Pok\u00e9mon",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Y",
+            "series": "Pok\u00e9mon",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Sword",
+            "series": "Pok\u00e9mon",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Legends: Arceus",
+            "series": "Pok\u00e9mon",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Violet",
+            "series": "Pok\u00e9mon",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Legends: Z-A",
+            "series": "Pok\u00e9mon",
+            "series_sort": 8,
+            "title_override": null
+        },
+        {
+            "title": "Polimines Deluxe",
+            "series": "Polimines",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Portal",
+            "series": "Portal",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Portal 2",
+            "series": "Portal",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Prince of Persia: The Sands of Time",
+            "series": "Prince of Persia",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Prince of Persia: The Lost Crown",
+            "series": "Prince of Persia",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Process of Elimination",
+            "series": "Process of Elimination",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Professor Layton vs. Phoenix Wright",
+            "series": "Professor Layton vs. Phoenix Wright",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Project M",
+            "series": "Project M",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pushmo",
+            "series": "Pushmo",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Puyo Puyo Tetris",
+            "series": "Puyo Puyo Tetris",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Puyo Puyo Tetris 2",
+            "series": "Puyo Puyo Tetris",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Puzzling Places",
+            "series": "Puzzling Places",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "QWOP",
+            "series": "QWOP",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Quell Reflect",
+            "series": "Quell",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "RGB",
+            "series": "RGB",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Raging Loop",
+            "series": "Raging Loop",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rally Cross",
+            "series": "Rally Cross",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rayman Jungle Run",
+            "series": "Rayman",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rayman Fiesta Run",
+            "series": "Rayman",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Rayman Origins",
+            "series": "Rayman",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Red Matter",
+            "series": "Red Matter",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Resident Evil 4 VR",
+            "series": "Resident Evil",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Return of the Obra Dinn",
+            "series": "Return of the Obra Dinn",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ring Fit Adventure",
+            "series": "Ring Fit Adventure",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Robot Unicorn Attack",
+            "series": "Robot Unicorn Attack",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rocket League",
+            "series": "Rocket League",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "RollerCoaster Tycoon",
+            "series": "RollerCoaster Tycoon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Room",
+            "series": "The Room",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Room Two",
+            "series": "The Room",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Room VR: A Dark Matter",
+            "series": "The Room",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Runnin Wild",
+            "series": "Runnin Wild",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sayonara Wild Hearts",
+            "series": "Sayonara Wild Hearts",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scooby Doo and the Cyber Chase",
+            "series": "Scooby Doo (Games)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scribblenauts",
+            "series": "Scribblenauts",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Scribblenauts",
+            "series": "Scribblenauts",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Shantae and the Pirate's Curse",
+            "series": "Shantae",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Shantae: Half-Genie Hero",
+            "series": "Shantae",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Shin Megami Tensei V",
+            "series": "Shin Megami Tensei",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Shovel Knight",
+            "series": "Shovel Knight",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "SimCity",
+            "series": "SimCity",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Slay the Princess",
+            "series": "Slay the Princess",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Slay the Spire",
+            "series": "Slay the Spire",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Snake",
+            "series": "Snake",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sonic the Hedgehog",
+            "series": "Sonic",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sonic the Hedgehog 2",
+            "series": "Sonic",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Sonic CD",
+            "series": "Sonic",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Sonic 3 & Knuckles",
+            "series": "Sonic",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Origins",
+            "series": "Sonic",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Adventure",
+            "series": "Sonic",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Adventure 2",
+            "series": "Sonic",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Heroes",
+            "series": "Sonic",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Battle",
+            "series": "Sonic",
+            "series_sort": 8,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Rush",
+            "series": "Sonic",
+            "series_sort": 9,
+            "title_override": null
+        },
+        {
+            "title": "Sonic and the Secret Rings",
+            "series": "Sonic",
+            "series_sort": 10,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Rush Adventure",
+            "series": "Sonic",
+            "series_sort": 11,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Chronicles: The Dark Brotherhood",
+            "series": "Sonic",
+            "series_sort": 12,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Unleashed",
+            "series": "Sonic",
+            "series_sort": 13,
+            "title_override": null
+        },
+        {
+            "title": "Sonic and the Black Knight",
+            "series": "Sonic",
+            "series_sort": 14,
+            "title_override": null
+        },
+        {
+            "title": "Sonic the Hedgehog 4: Episode I",
+            "series": "Sonic",
+            "series_sort": 15,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Colors",
+            "series": "Sonic",
+            "series_sort": 16,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Generations",
+            "series": "Sonic",
+            "series_sort": 17,
+            "title_override": null
+        },
+        {
+            "title": "Sonic the Hedgehog 4: Episode II",
+            "series": "Sonic",
+            "series_sort": 18,
+            "title_override": null
+        },
+        {
+            "title": "Sonic & All-Stars Racing Transformed",
+            "series": "Sonic",
+            "series_sort": 19,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Lost World (3DS)",
+            "series": "Sonic",
+            "series_sort": 20,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Mania",
+            "series": "Sonic",
+            "series_sort": 21,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Forces",
+            "series": "Sonic",
+            "series_sort": 22,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Frontiers",
+            "series": "Sonic",
+            "series_sort": 23,
+            "title_override": null
+        },
+        {
+            "title": "Shadow Generations",
+            "series": "Sonic",
+            "series_sort": 24,
+            "title_override": null
+        },
+        {
+            "title": "The Murder of Sonic the Hedgehog",
+            "series": "Sonic",
+            "series_sort": 25,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Robo Blast 2",
+            "series": "Sonic",
+            "series_sort": 26,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Robo Blast 2 Kart",
+            "series": "Sonic",
+            "series_sort": 27,
+            "title_override": null
+        },
+        {
+            "title": "Space Invaders",
+            "series": "Space Invaders",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Space Pirate Trainer",
+            "series": "Space Pirate Trainer",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spyro 2: Ripto's Rage",
+            "series": "Spyro",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spyro: Year of the Dragon",
+            "series": "Spyro",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Spyro: A Hero's Tail",
+            "series": "Spyro",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Spyro Orange: The Cortex Conspiracy",
+            "series": "Spyro",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Spyro Reignited Trilogy",
+            "series": "Spyro",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Splatoon 2",
+            "series": "Splatoon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Splatoon 3",
+            "series": "Splatoon",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Stanley Parable: Ultra Deluxe",
+            "series": "The Stanley Parable",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Battlefront II",
+            "series": "Star Wars",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars Episode I: Racer",
+            "series": "Star Wars",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Star Wars: Knights of the Old Republic",
+            "series": "Star Wars",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Super Hexagon",
+            "series": "Super Hexagon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Bros.",
+            "series": "Super Mario",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Bros.: The Lost Levels",
+            "series": "Super Mario",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario USA",
+            "series": "Super Mario",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Bros. 3",
+            "series": "Super Mario",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario World",
+            "series": "Super Mario",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario 64",
+            "series": "Super Mario",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario 64 DS",
+            "series": "Super Mario",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Sunshine",
+            "series": "Super Mario",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Galaxy",
+            "series": "Super Mario",
+            "series_sort": 8,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Galaxy 2",
+            "series": "Super Mario",
+            "series_sort": 9,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario 3D Land",
+            "series": "Super Mario",
+            "series_sort": 10,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario 3D World + Bowser's Fury",
+            "series": "Super Mario",
+            "series_sort": 11,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Run",
+            "series": "Super Mario",
+            "series_sort": 12,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Odyssey",
+            "series": "Super Mario",
+            "series_sort": 13,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Maker 2",
+            "series": "Super Mario",
+            "series_sort": 14,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Bros. Wonder",
+            "series": "Super Mario",
+            "series_sort": 15,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario RPG: Legend of the Seven Stars",
+            "series": "Super Mario RPG",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Smash Bros. Melee",
+            "series": "Super Smash Bros.",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Smash Bros. Brawl",
+            "series": "Super Smash Bros.",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Super Smash Bros. for Nintendo 3DS",
+            "series": "Super Smash Bros.",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Super Smash Bros. Ultimate",
+            "series": "Super Smash Bros.",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Super Smash Flash",
+            "series": "Super Smash Flash",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Street Fighter IV",
+            "series": "Street Fighter",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Talos Principle",
+            "series": "The Talos Principle",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Temple Run 2",
+            "series": "Temple Run",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tetris 99",
+            "series": "Tetris",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tetris DS",
+            "series": "Tetris",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Tetris Effect",
+            "series": "Tetris",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Them's Fightin' Herds",
+            "series": "Them's Fightin' Herds",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Thumper",
+            "series": "Thumper",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tilt Brush",
+            "series": "Tilt Brush",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Toontown Online",
+            "series": "Toontown",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Topgolf with Pro Putt",
+            "series": "Topgolf with Pro Putt",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Umineko: When They Cry",
+            "series": "When They Cry",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Universal Paperclips",
+            "series": "Universal Paperclips",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Virtue's Last Reward",
+            "series": "Zero Escape",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Voxelgram",
+            "series": "Voxelgram",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "VVVVVV",
+            "series": "VVVVVV",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "WWF War Zone",
+            "series": "WWF War Zone",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Wario Land 4",
+            "series": "Wario Land",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "WarioWare, Inc.: Mega Microgame$",
+            "series": "WarioWare",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "WarioWare: Smooth Moves",
+            "series": "WarioWare",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "WarioWare Gold",
+            "series": "WarioWare",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "WarioWare: Get It Together!",
+            "series": "WarioWare",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "WarioWare: Move It!",
+            "series": "WarioWare",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Wii Sports",
+            "series": "Wii Sports",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The World Ends with You",
+            "series": "The World Ends with You",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "NEO: The World Ends with You",
+            "series": "The World Ends with You",
+            "series_sort": 1,
+            "title_override": "World Ends with You, NEO: The"
+        },
+        {
+            "title": "Xenoblade Chronicles",
+            "series": "Xenoblade Chronicles",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Xenoblade Chronicles X",
+            "series": "Xenoblade Chronicles",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Xenoblade Chronicles 2",
+            "series": "Xenoblade Chronicles",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Xenoblade Chronicles 2: Torna - The Golden Country",
+            "series": "Xenoblade Chronicles",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Xenoblade Chronicles 3",
+            "series": "Xenoblade Chronicles",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Xenoblade Chronicles 3: Future Redeemed",
+            "series": "Xenoblade Chronicles",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Yoshi's Island",
+            "series": "Yoshi",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Zero Time Dilemma",
+            "series": "Zero Escape",
+            "series_sort": 2,
+            "title_override": null
         }
     ],
-    "TV": [],
-    "Cartoons": [],
-    "Anime": [],
-    "Comics": [],
-    "Web Media": []
+    "TV": [
+        {
+            "title": "3rd Rock from the Sun",
+            "series": "3rd Rock from the Sun",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Agatha Christie's Poirot",
+            "series": "Agatha Christie's Poirot",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Amanda Show",
+            "series": "The Amanda Show",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Amazing Race",
+            "series": "The Amazing Race",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "America's Funniest Home Videos",
+            "series": "America's Funniest Home Videos",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ancient Aliens",
+            "series": "Ancient Aliens",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Apprentice",
+            "series": "The Apprentice",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Are You Afraid of the Dark?",
+            "series": "Are You Afraid of the Dark?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Baggage",
+            "series": "Baggage",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Big Comfy Couch",
+            "series": "The Big Comfy Couch",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bill Nye the Science Guy",
+            "series": "Bill Nye the Science Guy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Blind Date",
+            "series": "Blind Date",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Blue's Clues",
+            "series": "Blue's Clues",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Colbert Report",
+            "series": "Colbert",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Conan",
+            "series": "Conan",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Curb Your Enthusiasm",
+            "series": "Curb Your Enthusiasm",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Daily Show with Jon Stewart",
+            "series": "The Daily Show",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Doctor Who",
+            "series": "Doctor Who",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Don't Drive Here",
+            "series": "Don't Drive Here",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Escape to the Country",
+            "series": "Escape to the Country",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Elegant Universe",
+            "series": "The Elegant Universe",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fawlty Towers",
+            "series": "Fawlty Towers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Flight of the Conchords",
+            "series": "Flight of the Conchords",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Friends",
+            "series": "Friends",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fries with That?",
+            "series": "Fries with That?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Game of Thrones",
+            "series": "Game of Thrones",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gilligan's Island",
+            "series": "Gilligan's Island",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Goosebumps",
+            "series": "Goosebumps",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "An Idiot Abroad",
+            "series": "An Idiot Abroad",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "I Love Lucy",
+            "series": "I Love Lucy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Joe Schmo Show",
+            "series": "The Joe Schmo Show",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Judge Judy",
+            "series": "Judge Judy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Just for Laughs: Gags",
+            "series": "Just for Laughs: Gags",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kenny vs. Spenny",
+            "series": "Kenny vs. Spenny",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Kids in the Hall",
+            "series": "The Kids in the Hall",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Late Show with Stephen Colbert",
+            "series": "Colbert",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "LOST",
+            "series": "LOST",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Man v. Food",
+            "series": "Man v. Food",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Married... with Children",
+            "series": "Married... with Children",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Mighty Boosh",
+            "series": "The Mighty Boosh",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mighty Morphin Power Rangers",
+            "series": "Power Rangers",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Morgan Spurlock Inside Man",
+            "series": "Morgan Spurlock Inside Man",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Murdoch Mysteries",
+            "series": "Murdoch Mysteries",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mystery Hunters",
+            "series": "Mystery Hunters",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mythbusters",
+            "series": "Mythbusters",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pee-wee's Playhouse",
+            "series": "Pee-wee's Playhouse",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Prank Patrol",
+            "series": "Prank Patrol",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Radio Active",
+            "series": "Radio Active",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Seinfeld",
+            "series": "Seinfeld",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sesame Street",
+            "series": "Sesame Street",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sherlock",
+            "series": "Sherlock",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Stranger Things",
+            "series": "Stranger Things",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Survivor",
+            "series": "Survivor",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Survivorman",
+            "series": "Survivorman",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Teletubbies",
+            "series": "Teletubbies",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "That's So Raven",
+            "series": "That's So Raven",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Time Commanders",
+            "series": "Time Commanders",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Trailer Park Boys",
+            "series": "Trailer Park Boys",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Twilight Zone",
+            "series": "The Twilight Zone",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ultraman Tiga",
+            "series": "Ultraman",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Walking Dead",
+            "series": "The Walking Dead",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Who Wants to Be a Millionaire",
+            "series": "Who Wants to Be a Millionaire",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "William Shatner's Weird or What?",
+            "series": "William Shatner's Weird or What?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Wrecked",
+            "series": "Wrecked",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The X-Files",
+            "series": "The X-Files",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Zixx: Level One",
+            "series": "Zixx",
+            "series_sort": 0,
+            "title_override": null
+        }
+    ],
+    "Cartoons": [
+        {
+            "title": "The Adventures of Jimmy Neutron: Boy Genius",
+            "series": "Jimmy Neutron",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Adventures of Tintin",
+            "series": "Tintin",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Archie's Weird Mysteries",
+            "series": "Archie",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Arthur",
+            "series": "Arthur",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Astro Boy (2003)",
+            "series": "Astro Boy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Aqua Teen Hunger Force",
+            "series": "Aqua Teen Hunger Force",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Berenstain Bears",
+            "series": "The Berenstain Bears",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Batman Beyond",
+            "series": "Batman",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Beyblade",
+            "series": "Beyblade",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Caillou",
+            "series": "Caillou",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cardcaptors",
+            "series": "Cardcaptors",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Casper the Friendly Ghost",
+            "series": "Casper the Friendly Ghost",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A Charlie Brown Christmas",
+            "series": "Peanuts",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Clifford the Big Red Dog",
+            "series": "Clifford the Big Red Dog",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Codename: Kids Next Door",
+            "series": "Codename: Kids Next Door",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Courage the Cowardly Dog",
+            "series": "Courage the Cowardly Dog",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Curious George",
+            "series": "Curious George",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cybersix",
+            "series": "Cybersix",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Danny Phantom",
+            "series": "Danny Phantom",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dexter's Laboratory",
+            "series": "Dexter's Laboratory",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dilbert",
+            "series": "Dilbert",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Donkey Kong Country",
+            "series": "Donkey Kong Country",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dora the Explorer",
+            "series": "Dora the Explorer",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dragon Ball",
+            "series": "Dragon Ball",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dragon Ball Z",
+            "series": "Dragon Ball",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Dragon Ball GT",
+            "series": "Dragon Ball",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Dragon Tales",
+            "series": "Dragon Tales",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Fairly OddParents",
+            "series": "The Fairly OddParents",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Family Guy",
+            "series": "Family Guy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Flintstones",
+            "series": "The Flintstones",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "For Better or For Worse",
+            "series": "For Better or For Worse",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Futurama",
+            "series": "Futurama",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Garfield and Friends",
+            "series": "Garfield",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Grim Adventures of Billy & Mandy",
+            "series": "Grim & Evil",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Grim & Evil",
+            "series": "Grim & Evil",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Hamtaro",
+            "series": "Hamtaro",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "How the Grinch Stole Christmas",
+            "series": "Dr. Seuss",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "InuYasha",
+            "series": "InuYasha",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Jackie Chan Adventures",
+            "series": "Jackie Chan Adventures",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kirby: Right Back at Ya!",
+            "series": "Kirby",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Little Bear",
+            "series": "Little Bear",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Looney Tunes",
+            "series": "Looney Tunes",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Magic School Bus",
+            "series": "The Magic School Bus",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Martin Mystery",
+            "series": "Martin Mystery",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "MegaMan NT Warrior",
+            "series": "Mega Man",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Megas XLR",
+            "series": "Megas XLR",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mew Mew Power",
+            "series": "Mew Mew Power",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mona the Vampire",
+            "series": "Mona the Vampire",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "My Little Pony: Friendship Is Magic",
+            "series": "My Little Pony",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Oliver's Adventures",
+            "series": "Oliver's Adventures",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "One Piece",
+            "series": "One Piece",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ozzy & Drix",
+            "series": "Ozzy & Drix",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pippi Longstocking",
+            "series": "Pippi Longstocking",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon",
+            "series": "Pok\u00e9mon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Poppy (novel)",
+            "series": "Poppy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Powerpuff Girls",
+            "series": "The Powerpuff Girls",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "ReBoot",
+            "series": "ReBoot",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Redwall",
+            "series": "Redwall",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rescue Heroes",
+            "series": "Rescue Heroes",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Ricky Gervais Show",
+            "series": "The Ricky Gervais Show",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Ripping Friends",
+            "series": "The Ripping Friends",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Road Runner Show",
+            "series": "The Road Runner Show",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Robot Chicken",
+            "series": "Robot Chicken",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rugrats",
+            "series": "Rugrats",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rupert Bear",
+            "series": "Rupert Bear",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sailor Moon",
+            "series": "Sailor Moon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Scooby-Doo Where Are You!",
+            "series": "Scooby-Doo",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "What's New Scooby-Doo?",
+            "series": "Scooby-Doo",
+            "series_sort": 1,
+            "title_override": "Scooby-Doo?, What's New"
+        },
+        {
+            "title": "Shaman King",
+            "series": "Shaman King",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sherlock Holmes in the 22nd Century",
+            "series": "Sherlock Holmes in the 22nd Century",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Simpsons",
+            "series": "The Simpsons",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Silverwing",
+            "series": "Silverwing",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Boom",
+            "series": "Sonic (Cartoons)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sonic the Hedgehog (SatAM)",
+            "series": "Sonic (Cartoons)",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Sonic Underground",
+            "series": "Sonic (Cartoons)",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Sonic X",
+            "series": "Sonic (Cartoons)",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "South Park",
+            "series": "South Park",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spider-Man (1967)",
+            "series": "Spider-Man (Cartoons)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "SpongeBob SquarePants",
+            "series": "SpongeBob SquarePants",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tales from the Cryptkeeper",
+            "series": "Tales from the Cryptkeeper",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles",
+            "series": "Teenage Mutant Ninja Turtles",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Teen Titans",
+            "series": "Teen Titans",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Toad Patrol",
+            "series": "Toad Patrol",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tom and Jerry",
+            "series": "Tom and Jerry",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Totally Spies",
+            "series": "Totally Spies",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ultimate Muscle",
+            "series": "Ultimate Muscle",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "What's with Andy?",
+            "series": "What's with Andy?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Winx Club",
+            "series": "Winx Club",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Xiaolin Showdown",
+            "series": "Xiaolin Showdown",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Yu-Gi-Oh!",
+            "series": "Yu-Gi-Oh!",
+            "series_sort": 0,
+            "title_override": null
+        }
+    ],
+    "Anime": [
+        {
+            "title": "A Certain Magical Index",
+            "series": "A Certain... (Index/Railgun)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A Certain Scientific Railgun",
+            "series": "A Certain... (Index/Railgun)",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Ajin: Demi-Human",
+            "series": "Ajin: Demi-Human",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Angel Beats!",
+            "series": "Angel Beats!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Another",
+            "series": "Another",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Apocalypse Hotel",
+            "series": "Apocalypse Hotel",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Apothecary Diaries",
+            "series": "The Apothecary Diaries",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Assassination Classroom",
+            "series": "Assassination Classroom",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Beastars",
+            "series": "Beastars",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Blood Blockade Battlefront",
+            "series": "Blood Blockade Battlefront",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Blue Exorcist",
+            "series": "Blue Exorcist",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Bocchi the Rock!",
+            "series": "Bocchi the Rock!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense",
+            "series": "BOFURI",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Clannad",
+            "series": "Clannad",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Classroom of the Elite",
+            "series": "Classroom of the Elite",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Code Geass: Lelouch of the Rebellion",
+            "series": "Code Geass",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cyberpunk: Edgerunners",
+            "series": "Cyberpunk: Edgerunners",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Danganronpa: The Animation",
+            "series": "Danganronpa (Anime)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Danganronpa 3: The End of Hope's Peak High School",
+            "series": "Danganronpa (Anime)",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Death Note",
+            "series": "Death Note",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Demon Slayer",
+            "series": "Demon Slayer",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Devil Is a Part-Timer!",
+            "series": "The Devil Is a Part-Timer!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Disappearance of Nagato Yuki-chan",
+            "series": "Haruhi Suzumiya",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Disastrous Life of Saiki K.",
+            "series": "The Disastrous Life of Saiki K.",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Durarara!!",
+            "series": "Durarara!!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "ef - A Tale of Memories",
+            "series": "ef",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Eminence in Shadow",
+            "series": "The Eminence in Shadow",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Neon Genesis Evangelion",
+            "series": "Evangelion",
+            "series_sort": 0,
+            "title_override": "Evangelion, Neon Genesis"
+        },
+        {
+            "title": "The End of Evangelion",
+            "series": "Evangelion",
+            "series_sort": 1,
+            "title_override": "Evangelion, The End of"
+        },
+        {
+            "title": "Evangelion: 1.0 You Are (Not) Alone",
+            "series": "Evangelion",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Evangelion: 2.0 You Can (Not) Advance",
+            "series": "Evangelion",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Evangelion: 3.0 You Can (Not) Redo",
+            "series": "Evangelion",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "series": "Evangelion",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Fairy Tail",
+            "series": "Fairy Tail",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Familiar of Zero",
+            "series": "The Familiar of Zero",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fate/Zero (EP 8)",
+            "series": "Fate",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fullmetal Alchemist",
+            "series": "Fullmetal Alchemist",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "series": "Fullmetal Alchemist",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Future Diary",
+            "series": "The Future Diary",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ghost Stories",
+            "series": "Ghost Stories",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gnosia",
+            "series": "Gnosia",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gosick",
+            "series": "Gosick",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Gurren Lagann",
+            "series": "Gurren Lagann",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Haganai",
+            "series": "Haganai",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Handyman Sait\u014d in Another World (ep 7)",
+            "series": "Handyman Sait\u014d in Another World",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Hunter \u00d7 Hunter",
+            "series": "Hunter \u00d7 Hunter",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Irresponsible Captain Tylor",
+            "series": "The Irresponsible Captain Tylor",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+            "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Is This a Zombie?",
+            "series": "Is This a Zombie?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kamisama Kiss",
+            "series": "Kamisama Kiss",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Kenka Bancho Otome: Girl Beats Boys",
+            "series": "Kenka Bancho Otome",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "K-On!",
+            "series": "K-On!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "KonoSuba: God's Blessing on This Wonderful World",
+            "series": "KonoSuba",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Love, Chunibyo & Other Delusions",
+            "series": "Love, Chunibyo & Other Delusions",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+            "series": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Maid Sama!",
+            "series": "Maid Sama!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Medaka Box",
+            "series": "Medaka Box",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Melancholy of Haruhi Suzumiya",
+            "series": "Haruhi Suzumiya",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Miss Kuroitsu From the Monster Development Department (ep 6)",
+            "series": "Miss Kuroitsu From the Monster Development Department",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mob Psycho 100",
+            "series": "Mob Psycho 100",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "My Hero Academia",
+            "series": "My Hero Academia",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "My Hero Academia: Vigilantes",
+            "series": "My Hero Academia",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "My Little Monster (ep 8)",
+            "series": "My Little Monster",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "My Next Life as a Villainess: All Routes Lead to Doom!",
+            "series": "My Next Life as a Villainess",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "My Teen Romantic Comedy SNAFU",
+            "series": "My Teen Romantic Comedy SNAFU",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Natsume's Book of Friends",
+            "series": "Natsume's Book of Friends",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Nier: Automata Ver1.1a",
+            "series": "Nier (Anime)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Nisekoi",
+            "series": "Nisekoi",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "No Game No Life",
+            "series": "No Game No Life",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Noragami",
+            "series": "Noragami",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "One Punch Man",
+            "series": "One Punch Man",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ouran High School Host Club",
+            "series": "Ouran High School Host Club",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Overlord",
+            "series": "Overlord",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Parallel World Pharmacy (ep 6)",
+            "series": "Parallel World Pharmacy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Parasyte: The Maxim",
+            "series": "Parasyte",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Plastic Memories",
+            "series": "Plastic Memories",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Psycho-Pass",
+            "series": "Psycho-Pass",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Puella Magi Madoka Magica",
+            "series": "Madoka Magica",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Ranma \u00bd",
+            "series": "Ranma \u00bd",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "series": "Rascal Does Not Dream",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Re:Zero \u2212 Starting Life in Another World",
+            "series": "Re:Zero",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+            "series": "Reborn as a Vending Machine",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Red Ranger Becomes an Adventurer in Another World",
+            "series": "The Red Ranger Becomes an Adventurer in Another World",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "RWBY",
+            "series": "RWBY",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Saga of Tanya the Evil",
+            "series": "Saga of Tanya the Evil",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "School-Live!",
+            "series": "School-Live!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Slime Diaries",
+            "series": "That Time I Got Reincarnated as a Slime",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "So I'm a Spider, So What?",
+            "series": "So I'm a Spider, So What?",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Solo Leveling",
+            "series": "Solo Leveling",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Soul Eater (ep 8)",
+            "series": "Soul Eater",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Spy \u00d7 Family (ep 5)",
+            "series": "Spy \u00d7 Family",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Steins;Gate (ep 13)",
+            "series": "Steins;Gate",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sword Art Online",
+            "series": "Sword Art Online",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Talentless Nana",
+            "series": "Talentless Nana",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tearmoon Empire",
+            "series": "Tearmoon Empire",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "That Time I Got Reincarnated as a Slime",
+            "series": "That Time I Got Reincarnated as a Slime",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "To Be Hero X",
+            "series": "To Be Hero X",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "To Your Eternity",
+            "series": "To Your Eternity",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tokyo Ghoul",
+            "series": "Tokyo Ghoul",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Toradora!",
+            "series": "Toradora!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+            "series": "Trapped in a Dating Sim",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Villainess Level 99",
+            "series": "Villainess Level 99",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Vivy: Fluorite Eye's Song",
+            "series": "Vivy: Fluorite Eye's Song",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Welcome to Demon School! Iruma-kun",
+            "series": "Welcome to Demon School! Iruma-kun",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A Wild Last Boss Appeared!",
+            "series": "A Wild Last Boss Appeared!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The World Ends with You: The Animation",
+            "series": "The World Ends with You",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Yona of the Dawn",
+            "series": "Yona of the Dawn",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Your Name.",
+            "series": "Your Name.",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Yu Yu Hakusho",
+            "series": "Yu Yu Hakusho",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Zombie Land Saga",
+            "series": "Zombie Land Saga",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Disappearance of Haruhi Suzumiya",
+            "series": "Haruhi Suzumiya",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "ZENSHU",
+            "series": "ZENSHU",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Tamon's B-Side",
+            "series": "Tamon's B-Side",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Roll Over and Die",
+            "series": "Roll Over and Die",
+            "series_sort": 0,
+            "title_override": null
+        }
+    ],
+    "Comics": [
+        {
+            "title": "Omniscient Reader's Viewpoint",
+            "series": "Omniscient Reader's Viewpoint",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Solo Leveling",
+            "series": "Solo Leveling",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Adventures of Tintin",
+            "series": "Tintin",
+            "series_sort": 0,
+            "title_override": null
+        }
+    ],
+    "Web Media": [
+        {
+            "title": "CGP Grey",
+            "series": "CGP Grey",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Dragon Ball Z Abridged",
+            "series": "Dragon Ball Z Abridged",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Garfield Minus Garfield",
+            "series": "Garfield Minus Garfield",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Marble Hornets",
+            "series": "Marble Hornets",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Rainbow Dash Presents",
+            "series": "Rainbow Dash Presents",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sonic: Nazo Unleashed",
+            "series": "Sonic (Web Media)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Super Mario Bros. Z",
+            "series": "Super Mario Bros. Z",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Sword Art Online Abridged",
+            "series": "Sword Art Online Abridged",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "There she is!!",
+            "series": "There she is!!",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Turnabout Storm",
+            "series": "Turnabout Storm",
+            "series_sort": 0,
+            "title_override": null
+        }
+    ]
 }

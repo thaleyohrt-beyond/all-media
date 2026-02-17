@@ -1,49 +1,960 @@
 # All Media
 
 ## Movies
+- 12 Angry Men
+- 12 Monkeys
+- 127 Hours
+- 1408
+- 2012
+- Brony Tale, A
+- Series of Unfortunate Events, A
+- After Earth
+- Murder on the Orient Express
+- Death on the Nile
+- Haunting in Venice, A
+- Airplane!
+- Bruce Almighty
+- Evan Almighty
+- Inconvenient Truth, An
+- Austin Powers: International Man of Mystery
+- Austin Powers: The Spy Who Shagged Me
+- Austin Powers in Goldmember
+- Avatar
+- Avatar: The Way of Water
+- Back to the Future
+- Back to the Future Part II
+- Back to the Future Part III
+- Bad Santa
+- Barbie
+- Being John Malkovich
+- Best in Show
+- Black Swan
+- BlacKkKlansman
+- Bob Marley: One Love
+- Capitalism: A Love Story
+- Cast Away
+- Catch Me If You Can
+- Charlie and the Chocolate Factory
+- Charlie's Angels
+- Children of Men
+- Circle
+- Click
+- Clockstoppers
+- Close Encounters of the Third Kind
+- Cloud Atlas
+- Cloverfield
 - 10 Cloverfield Lane
+- Cloverfield Paradox, The
+- Clue
+- Shaun of the Dead
+- World's End, The
+- Crank
+- Crazy Rich Asians
+- Dead Poets Society
+- Deadpool 2
+- Deadpool and Wolverine
+- Death to 2020
+- Devil
+- District 9
+- DodgeBall: A True Underdog Story
+- Edge of Tomorrow
+- Elf
+- Enchanted
+- Ender's Game
+- Ex Machina
+- Fantastic Four (2005)
+- Fantastic Four: Rise of the Silver Surfer
+- Freaky Friday
+- Free Guy
+- Garfield: The Movie
+- George of the Jungle
+- Godzilla (1998)
+- Gravity
+- Groundhog Day
+- Harry Potter and the Philosopher's Stone
+- Harry Potter and the Chamber of Secrets
+- Harry Potter and the Prisoner of Azkaban
+- Harry Potter and the Goblet of Fire
+- Harry Potter and the Order of the Phoenix
+- Harry Potter and the Half-Blood Prince
+- Harry Potter and the Deathly Hallows - Part 1
+- Harry Potter and the Deathly Hallows - Part 2
+- Home Alone
+- Home Alone 2
+- Honey, We Shrunk Ourselves
+- I Am Legend
+- I, Robot
+- Inception
+- Independence Day
+- Raiders of the Lost Ark
+- Indiana Jones and the Temple of Doom
+- Indiana Jones and the Last Crusade
+- Indiana Jones and the Kingdom of the Crystal Skull
+- Indiana Jones and the Dial of Destiny
+- Interstellar
+- Iron Man
+- It's a Wonderful Life
+- Jaws
+- Joker
+- Jumanji
+- Jumper
+- Jungle Cruise
+- Juno
+- Kangaroo Jack
+- Knives Out
+- Glass Onion
+- Wake Up Dead Man
+- Knock at the Cabin
+- Knowing
+- Life of Pi
+- Life of the Party
+- Lion
+- Little Miss Sunshine
+- Looney Tunes: Back in Action
+- Mary Poppins
+- Mary Poppins Returns
+- Memento
+- Men in Black
+- Men in Black II
+- Men in Black 3
+- Monty Python and the Holy Grail
+- Monty Python's Life of Brian
+- Moon
+- National Treasure
+- National Treasure: Book of Secrets
+- Night at the Museum
+- Now You See Me
+- Osmosis Jones
+- Pirates of the Caribbean: The Curse of the Black Pearl
+- Pirates of the Caribbean: Dead Man's Chest
+- Pirates of the Caribbean: At World's End
+- Planet of the Apes
+- Planet of the Apes (2001)
+- Rise of the Planet of the Apes
+- Dawn of the Planet of the Apes
+- Kingdom of the Planet of the Apes
+- Poltergeist
+- Predator
+- Prince of Persia: The Sands of Time
+- Rat Race
+- Ready or Not
+- Ready Player One
+- Richie Rich's Christmas Wish
+- Romeo + Juliet
+- Scary Movie
+- Scary Movie 2
+- Scary Movie 3
+- Scary Movie 4
+- School of Rock
+- Scooby-Doo
+- Scooby-Doo 2: Monsters Unleashed
+- Scream
+- Scream 2
+- Scream 3
+- Scream 4
+- Scream (2022)
+- Scream VI
+- Shutter Island
+- Signs
+- Sky High
+- Slumdog Millionaire
+- Source Code
+- Space Jam
+- Spaceballs
+- Speed
+- Spider-Man
+- Spider-Man 2
+- Spider-Man 3
+- Spy Kids
+- Spy Kids 2: The Island of Lost Dreams
+- Spy Kids 3D: Game Over
+- Star Wars Episode I: The Phantom Menace
+- Star Wars Episode II: Attack of the Clones
+- Star Wars Episode III: Revenge of the Sith
+- Star Wars Episode IV: A New Hope
+- Star Wars Episode V: The Empire Strikes Back
+- Star Wars Episode VI: Return of the Jedi
+- Star Wars Episode VII: The Force Awakens
+- Star Wars Episode VIII: The Last Jedi
+- Star Wars Episode IX: The Rise of Skywalker
+- Rogue One: A Star Wars Story
+- Solo: A Star Wars Story
+- Stargate
+- Stranger than Fiction
+- Super 8
+- Super Size Me
+- Superman
+- Superman 2
+- Superman Returns
+- Terminator, The
+- Terminator 2: Judgment Day
+- Terminator 3: Rise of the Machines
+- Adventures of Sharkboy and Lavagirl, The
+- Avengers, The
+- Butterfly Effect, The
+- Cabin in the Woods, The
+- Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The
+- Color Purple (2023), The
+- Core, The
+- Batman Begins
+- Dark Knight, The
+- Dark Knight Rises, The
+- Day After Tomorrow, The
+- Disaster Artist, The
+- Exorcist, The
+- Forgotten, The
+- Gods Must Be Crazy, The
+- Gods Must Be Crazy II, The
+- Golden Compass, The
+- Grand Budapest Hotel, The
+- Grudge, The
+- Hangover, The
+- Happening, The
+- Hitchhiker's Guide to the Galaxy, The
+- Hobbit: An Unexpected Journey, The
+- Hunger Games, The
+- Hunger Games: Catching Fire, The
+- Hunger Games: Mockingjay - Part 1, The
+- Hunger Games: Mockingjay - Part 2, The
+- Imaginarium of Doctor Parnassus, The
+- Internship, The
+- Island, The
+- Jungle Book, The
+- King's Speech, The
+- Last Airbender, The
+- Lord of the Rings: The Fellowship of the Ring, The
+- Lord of the Rings: The Two Towers, The
+- Lord of the Rings: The Return of the King, The
+- Martian, The
+- Mask, The
+- Master of Disguise, The
+- Matrix, The
+- Matrix Reloaded, The
+- Matrix Revolutions, The
+- Men Who Stare at Goats, The
+- Minority Report, The
+- Number 23, The
+- Pacifier, The
+- Prestige, The
+- Running Man, The
+- Santa Clause, The
+- Secret, The
+- Social Network, The
+- Thing, The
+- Triangle, The
+- Village, The
+- Visit, The
+- Wizard of Oz, The
+- This Is Spinal Tap
+- This Is the End
+- To Kill a Mockingbird
+- Total Recall
+- Transformers
+- Tropic Thunder
+- Twilight
+- Twilight: New Moon
+- Sixth Sense, The
+- Unbreakable
+- Split
+- Glass
+- War of the Worlds
+- Waterworld
+- Wedding Crashers
+- What the BLEEP Do We Know!?
+- Where in the World Is Osama Bin Laden?
+- Where the Wild Things Are
+- Who Framed Roger Rabbit
+- Willy Wonka & the Chocolate Factory
+- X-Men Origins: Wolverine
+- Logan
+- X-Men
+- X2: X-Men United
+- X-Men: The Last Stand
+- X-Men: First Class
+- X-Men: Days of Future Past
+- X-Men: Apocalypse
+- Zero Dark Thirty
 
 ## Animated Movies
+- Alice in Wonderland
+- Bionicle: Mask of Light
+- Charlotte's Web
+- Choose Your Own Adventure: The Abominable Snowman
+- Coraline
+- Finding Nemo
+- Frozen
+- Hoodwinked
+- Monster House
+- Monsters, Inc.
+- My Little Pony: The Movie
+- My Little Pony: A New Generation
+- Peter Pan
+- Ratatouille
+- Scooby-Doo and the Cyber Chase
+- Scooby-Doo on Zombie Island
+- Shrek
+- Shrek 2
+- Shrek the Third
+- Spider-Man: Into the Spider-Verse
+- Spider-Man: Across the Spider-Verse
+- Spirited Away
+- Team America: World Police
+- Brave Little Toaster, The
+- Incredibles, The
+- Iron Giant, The
+- Jungle Book, The
+- Lion King, The
+- Little Mermaid, The
+- Muppet Treasure Island
+- Nightmare Before Christmas, The
+- Simpsons Movie, The
+- Adventures of Tintin: The Secret of the Unicorn, The
+- Up
+- WALL-E
 
 ## Games
-- 1000xResist
+- 1000xRESIST
 - 13 Sentinels: Aegis Rim
+- Day at Work, A
+- Abduction! World Attack
+- Ace Attorney, Phoenix Wright:
+- Ace Attorney - Justice For All, Phoenix Wright:
+- Ace Attorney - Trials and Tribulations, Phoenix Wright:
+- Ace Attorney Investigations: Miles Edgeworth
+- Ace Attorney Investigations: Prosecutor's Path
+- Ace Attorney, Apollo Justice:
+- Ace Attorney - Dual Destinies, Phoenix Wright:
+- Ace Attorney - Spirit of Justice, Phoenix Wright:
+- Ace Attorney Chronicles, The Great
 - AI: The Somnium Files
 - AI: The Somnium Files - nirvanA Initiative
 - AirXonix
+- All the Right Type
+- Alto's Adventure
+- Alto's Odyssey
 - Angry Birds
 - Animal Crossing: New Horizons
+- Art Academy
+- Astral Chain
+- Audio Trip
+- Balatro
+- Banjo-Kazooie
+- Bayonetta
+- Bayonetta 2
+- Beat Saber
+- Bonk's Adventure
+- Breakout
+- Bugdom
+- Call of Duty 3
+- Cave Story
+- Celeste
+- Crash Bash
+- CrossCode
+- Crumble
 - Danganronpa: Trigger Happy Havoc
 - Danganronpa 2: Goodbye Despair
 - Danganronpa V3: Killing Harmony
+- Dash Dash World
+- Dead Trigger
+- Diablo III
+- Donkey Kong
+- Donkey Kong Country: Tropical Freeze
+- Donkey Kong Bananza
+- Doom (2016)
+- Ecco the Dolphin
+- Eleven Table Tennis
+- Eversion
+- F-Zero: Maximum Velocity
+- Fall Guys: Ultimate Knockout
+- Fallout 3
+- Famicom Detective Club: The Missing Heir
+- Famicom Detective Club: The Girl Who Stands Behind
+- Fancy Pants Adventure
+- Final Fantasy III
+- Final Fantasy VII
+- Final Fantasy XII: The Zodiac Age
+- Fire Emblem: Three Houses
+- Fire Emblem Warriors: Three Hopes
+- Fortnite
+- Freddi Fish 3: The Case of the Stolen Conch Shell
+- FreeCell
+- Frogger
+- Full Tilt! Pinball
+- Gears of War
+- Ghost Trick: Phantom Detective
+- Gnosia
+- Gorogoa
+- Gran Turismo 2
+- Granny Smith
+- Guitar Hero III: Legends of Rock
+- Guitar Hero: World Tour
+- Gyro
+- Half-Life 2
+- Halo 2
+- Halo 3
+- Hotel Dusk: Room 215
+- Hydro Thunder
+- Hyrule Warriors: Age of Imprisonment
+- I Expect You to Die
+- I Wanna Be the Guy
+- Ice Climber
+- Immortals Fenyx Rising
+- In Death: Unchained
+- Indiana Jones and the Emperor's Tomb
+- Inside
+- Jet Moto
+- Kid Icarus: Uprising
+- Kirby's Adventure
+- Kirby and the Amazing Mirror
+- Kirby and the Forgotten Land
 - Klonoa
 - L.A. Noire
+- Layton Brothers: Mystery Room
+- Lego Star Wars II: The Original Trilogy
+- Lego Star Wars: The Complete Saga
+- Lego Star Wars: The Skywalker Saga
+- Lemmings
+- Life Is Strange: True Colors
+- Line Rider
 - Logic Bombs
 - Luigi's Mansion: Dark Moon
 - Luigi's Mansion 3
+- Maple Story
 - Mario & Sonic at the Olympic Games
 - Mario & Sonic at the Olympic Winter Games
+- Mario + Rabbids Kingdom Battle
 - Mario Kart 64
-- Mario Kart: Double Dash!!
+- Mario Kart: Super Circuit
+- Mario Kart: Double Dash
 - Mario Kart DS
+- Mario Kart Wii
+- Mario Kart 7
+- Mario Kart 8 Deluxe
+- Mario Kart World
+- Mario vs. Donkey Kong
+- Master Detective Archives: Rain Code
+- Medal of Honor
+- Mega Man Battle Network
+- Mega Man Battle Network 2
+- Metroid
+- Super Metroid
+- Metroid Fusion
+- Metroid: Zero Mission
+- Metroid Dread
+- Metroid Prime
+- Metroid Prime 2: Echoes
+- Metroid Prime 3: Corruption
+- Metroid Prime 4: Beyond
+- Minecraft
+- Minesweeper
+- Monster Hunter Rise
+- Moss
+- Murder by Numbers
+- Need for Speed 2
+- NES Open Tournament Golf
+- New Super Mario Bros.
+- New Super Mario Bros. Wii
+- New Super Mario Bros. 2
+- New Super Mario Bros. U Deluxe
+- NHL FaceOff '98
+- Nier: Automata
+- Nintendo Switch 2 Welcome Tour
+- Nintendogs
+- Octopath Traveler II
+- Okami
+- Outer Wilds
+- Pac-Man
+- Panzer Dragoon
+- Super Paper Mario
+- Paper Mario: The Origami King
+- Paranormasight
+- Penny's Big Breakaway
+- Persona 5 Royal
+- Persona 5 Strikers
+- Pic-a-Pix Deluxe
+- Picross 3D
+- Picross 3D: Round 2
+- Picross DS
+- Picross e
+- Picross e2
+- Picross e3
+- Picross e4
+- Picross e5
+- Picross e6
+- Picross S
+- Picross S2
+- Picross S3
+- Picross S4
+- Picross S5
+- Picross S6
+- Pikmin 3
+- Pikmin 4
+- Pistol Whip
+- Pokémon LeafGreen
+- Pokémon Pearl
+- Pokémon SoulSilver
+- Pokémon White
+- Pokémon Y
+- Pokémon Sword
+- Pokémon Legends: Arceus
+- Pokémon Violet
+- Pokémon Legends: Z-A
+- Polimines Deluxe
+- Portal
+- Portal 2
+- Prince of Persia: The Sands of Time
+- Prince of Persia: The Lost Crown
+- Process of Elimination
+- Professor Layton vs. Phoenix Wright
+- Project M
+- Pushmo
+- Puyo Puyo Tetris
+- Puyo Puyo Tetris 2
+- Puzzling Places
+- Quell Reflect
+- QWOP
+- Raging Loop
+- Rally Cross
+- Rayman Jungle Run
+- Rayman Fiesta Run
+- Rayman Origins
+- Red Matter
+- Resident Evil 4 VR
+- Return of the Obra Dinn
+- RGB
+- Ring Fit Adventure
+- Robot Unicorn Attack
+- Rocket League
+- RollerCoaster Tycoon
+- Runnin Wild
+- Sayonara Wild Hearts
+- Scooby Doo and the Cyber Chase
+- Scribblenauts
+- Super Scribblenauts
+- Shantae and the Pirate's Curse
+- Shantae: Half-Genie Hero
+- Shin Megami Tensei V
+- Shovel Knight
+- SimCity
+- Slay the Princess
+- Slay the Spire
+- Snake
 - Sonic the Hedgehog
 - Sonic the Hedgehog 2
 - Sonic CD
 - Sonic 3 & Knuckles
+- Sonic Origins
+- Sonic Adventure
+- Sonic Adventure 2
+- Sonic Heroes
+- Sonic Battle
+- Sonic Rush
+- Sonic and the Secret Rings
+- Sonic Rush Adventure
+- Sonic Chronicles: The Dark Brotherhood
+- Sonic Unleashed
+- Sonic and the Black Knight
+- Sonic the Hedgehog 4: Episode I
+- Sonic Colors
+- Sonic Generations
+- Sonic the Hedgehog 4: Episode II
+- Sonic & All-Stars Racing Transformed
+- Sonic Lost World (3DS)
+- Sonic Mania
+- Sonic Forces
+- Sonic Frontiers
+- Shadow Generations
+- Murder of Sonic the Hedgehog, The
+- Sonic Robo Blast 2
+- Sonic Robo Blast 2 Kart
+- Space Invaders
+- Space Pirate Trainer
+- Splatoon 2
+- Splatoon 3
+- Spyro 2: Ripto's Rage
+- Spyro: Year of the Dragon
+- Spyro: A Hero's Tail
+- Spyro Orange: The Cortex Conspiracy
+- Spyro Reignited Trilogy
+- Star Wars Battlefront II
+- Star Wars Episode I: Racer
+- Star Wars: Knights of the Old Republic
+- Super Street Fighter IV
+- Super Hexagon
+- Super Mario Bros.
+- Super Mario Bros.: The Lost Levels
+- Super Mario USA
+- Super Mario Bros. 3
+- Super Mario World
+- Super Mario 64
+- Super Mario 64 DS
+- Super Mario Sunshine
+- Super Mario Galaxy
+- Super Mario Galaxy 2
+- Super Mario 3D Land
+- Super Mario 3D World + Bowser's Fury
+- Super Mario Run
+- Super Mario Odyssey
+- Super Mario Maker 2
+- Super Mario Bros. Wonder
+- Super Mario RPG: Legend of the Seven Stars
+- Super Smash Bros. Melee
+- Super Smash Bros. Brawl
+- Super Smash Bros. for Nintendo 3DS
+- Super Smash Bros. Ultimate
+- Super Smash Flash
+- Temple Run 2
+- Tetris 99
+- Tetris DS
+- Tetris Effect
+- Elder Scrolls IV: Oblivion, The
+- Elder Scrolls V: Skyrim, The
+- Hundred Line: Last Defense Academy, The
+- Impossible Quiz, The
+- Lab, The
 - Legend of Zelda, The
 - Zelda II: The Adventure of Link
 - Legend of Zelda: A Link to the Past, The
 - Legend of Zelda: Link's Awakening DX, The
 - Legend of Zelda: Ocarina of Time 3D, The
 - Legend of Zelda: Majora's Mask 3D, The
+- Legend of Zelda: The Wind Waker, The
+- Legend of Zelda: Four Swords, The
+- Legend of Zelda: The Minish Cap, The
+- Legend of Zelda: Twilight Princess, The
+- Legend of Zelda: Phantom Hourglass, The
+- Legend of Zelda: Spirit Tracks, The
+- Legend of Zelda: Skyward Sword, The
+- Legend of Zelda: A Link Between Worlds, The
+- Legend of Zelda: Breath of the Wild, The
+- Legend of Zelda: Link's Awakening (2019), The
+- Legend of Zelda: Tears of the Kingdom, The
+- Legend of Zelda: Echoes of Wisdom, The
+- Room, The
+- Room Two, The
+- Room VR: A Dark Matter, The
+- Stanley Parable: Ultra Deluxe, The
+- Talos Principle, The
+- World Ends with You, The
+- World Ends with You, NEO: The
+- Them's Fightin' Herds
+- Thumper
+- Tilt Brush
+- Toontown Online
+- Topgolf with Pro Putt
+- Universal Paperclips
+- Voxelgram
+- VVVVVV
+- Wario Land 4
+- WarioWare, Inc.: Mega Microgame$
+- WarioWare: Smooth Moves
+- WarioWare Gold
+- WarioWare: Get It Together!
+- WarioWare: Move It!
+- Umineko: When They Cry
+- Wii Sports
+- WWF War Zone
+- Xenoblade Chronicles
+- Xenoblade Chronicles X
+- Xenoblade Chronicles 2
+- Xenoblade Chronicles 2: Torna - The Golden Country
+- Xenoblade Chronicles 3
+- Xenoblade Chronicles 3: Future Redeemed
+- Yoshi's Island
+- Nine Hours, Nine Persons, Nine Doors
+- Virtue's Last Reward
+- Zero Time Dilemma
 
 ## TV
+- 3rd Rock from the Sun
+- Agatha Christie's Poirot
+- America's Funniest Home Videos
+- Idiot Abroad, An
+- Ancient Aliens
+- Are You Afraid of the Dark?
+- Baggage
+- Bill Nye the Science Guy
+- Blind Date
+- Blue's Clues
+- Colbert Report, The
+- Late Show with Stephen Colbert, The
+- Conan
+- Curb Your Enthusiasm
+- Doctor Who
+- Don't Drive Here
+- Escape to the Country
+- Fawlty Towers
+- Flight of the Conchords
+- Friends
+- Fries with That?
+- Game of Thrones
+- Gilligan's Island
+- Goosebumps
+- I Love Lucy
+- Judge Judy
+- Just for Laughs: Gags
+- Kenny vs. Spenny
+- LOST
+- Man v. Food
+- Married... with Children
+- Morgan Spurlock Inside Man
+- Murdoch Mysteries
+- Mystery Hunters
+- Mythbusters
+- Pee-wee's Playhouse
+- Mighty Morphin Power Rangers
+- Prank Patrol
+- Radio Active
+- Seinfeld
+- Sesame Street
+- Sherlock
+- Stranger Things
+- Survivor
+- Survivorman
+- Teletubbies
+- That's So Raven
+- Amanda Show, The
+- Amazing Race, The
+- Apprentice, The
+- Big Comfy Couch, The
+- Daily Show with Jon Stewart, The
+- Elegant Universe, The
+- Joe Schmo Show, The
+- Kids in the Hall, The
+- Mighty Boosh, The
+- Twilight Zone, The
+- Walking Dead, The
+- X-Files, The
+- Time Commanders
+- Trailer Park Boys
+- Ultraman Tiga
+- Who Wants to Be a Millionaire
+- William Shatner's Weird or What?
+- Wrecked
+- Zixx: Level One
 
 ## Cartoons
+- Aqua Teen Hunger Force
+- Archie's Weird Mysteries
+- Arthur
+- Astro Boy (2003)
+- Batman Beyond
+- Beyblade
+- Caillou
+- Cardcaptors
+- Casper the Friendly Ghost
+- Clifford the Big Red Dog
+- Codename: Kids Next Door
+- Courage the Cowardly Dog
+- Curious George
+- Cybersix
+- Danny Phantom
+- Dexter's Laboratory
+- Dilbert
+- Donkey Kong Country
+- Dora the Explorer
+- How the Grinch Stole Christmas
+- Dragon Ball
+- Dragon Ball Z
+- Dragon Ball GT
+- Dragon Tales
+- Family Guy
+- For Better or For Worse
+- Futurama
+- Garfield and Friends
+- Grim & Evil
+- Grim Adventures of Billy & Mandy, The
+- Hamtaro
+- InuYasha
+- Jackie Chan Adventures
+- Adventures of Jimmy Neutron: Boy Genius, The
+- Kirby: Right Back at Ya!
+- Little Bear
+- Looney Tunes
+- Martin Mystery
+- MegaMan NT Warrior
+- Megas XLR
+- Mew Mew Power
+- Mona the Vampire
+- My Little Pony: Friendship Is Magic
+- Oliver's Adventures
+- One Piece
+- Ozzy & Drix
+- Charlie Brown Christmas, A
+- Pippi Longstocking
+- Pokémon
+- Poppy (novel)
+- ReBoot
+- Redwall
+- Rescue Heroes
+- Robot Chicken
+- Rugrats
+- Rupert Bear
+- Sailor Moon
+- Scooby-Doo Where Are You!
+- Scooby-Doo?, What's New
+- Shaman King
+- Sherlock Holmes in the 22nd Century
+- Silverwing
+- Sonic Boom
+- Sonic the Hedgehog (SatAM)
+- Sonic Underground
+- Sonic X
+- South Park
+- Spider-Man (1967)
+- SpongeBob SquarePants
+- Tales from the Cryptkeeper
+- Teen Titans
+- Teenage Mutant Ninja Turtles
+- Berenstain Bears, The
+- Fairly OddParents, The
+- Flintstones, The
+- Magic School Bus, The
+- Powerpuff Girls, The
+- Ricky Gervais Show, The
+- Ripping Friends, The
+- Road Runner Show, The
+- Simpsons, The
+- Adventures of Tintin, The
+- Toad Patrol
+- Tom and Jerry
+- Totally Spies
+- Ultimate Muscle
+- What's with Andy?
+- Winx Club
+- Xiaolin Showdown
+- Yu-Gi-Oh!
 
 ## Anime
+- Certain Magical Index, A
+- Certain Scientific Railgun, A
+- Wild Last Boss Appeared!, A
+- Ajin: Demi-Human
+- Angel Beats!
+- Another
+- Apocalypse Hotel
+- Assassination Classroom
+- Beastars
+- Blood Blockade Battlefront
+- Blue Exorcist
+- Bocchi the Rock!
+- BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense
+- Clannad
+- Classroom of the Elite
+- Code Geass: Lelouch of the Rebellion
+- Cyberpunk: Edgerunners
+- Danganronpa: The Animation
+- Danganronpa 3: The End of Hope's Peak High School
+- Death Note
+- Demon Slayer
+- Durarara!!
+- ef - A Tale of Memories
+- Evangelion, Neon Genesis
+- Evangelion, The End of
+- Evangelion: 1.0 You Are (Not) Alone
+- Evangelion: 2.0 You Can (Not) Advance
+- Evangelion: 3.0 You Can (Not) Redo
+- Evangelion: 3.0+1.0 Thrice Upon a Time
+- Fairy Tail
+- Fate/Zero (EP 8)
+- Fullmetal Alchemist
+- Fullmetal Alchemist: Brotherhood
+- Ghost Stories
+- Gnosia
+- Gosick
+- Gurren Lagann
+- Haganai
+- Handyman Saitō in Another World (ep 7)
+- Hunter × Hunter
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
+- Is This a Zombie?
+- K-On!
+- Kamisama Kiss
+- Kenka Bancho Otome: Girl Beats Boys
+- KonoSuba: God's Blessing on This Wonderful World
+- Love, Chunibyo & Other Delusions
+- Puella Magi Madoka Magica
+- Maid Sama!
+- Medaka Box
+- Miss Kuroitsu From the Monster Development Department (ep 6)
+- Mob Psycho 100
+- My Hero Academia
+- My Hero Academia: Vigilantes
+- My Little Monster (ep 8)
+- My Next Life as a Villainess: All Routes Lead to Doom!
+- My Teen Romantic Comedy SNAFU
+- Natsume's Book of Friends
+- Nier: Automata Ver1.1a
+- Nisekoi
+- No Game No Life
+- Noragami
+- One Punch Man
+- Ouran High School Host Club
+- Overlord
+- Parallel World Pharmacy (ep 6)
+- Parasyte: The Maxim
+- Plastic Memories
+- Psycho-Pass
+- Ranma ½
+- Rascal Does Not Dream of Bunny Girl Senpai
+- Re:Zero − Starting Life in Another World
+- Reborn as a Vending Machine, I Now Wander the Dungeon
+- Roll Over and Die
+- RWBY
+- Saga of Tanya the Evil
+- School-Live!
+- So I'm a Spider, So What?
+- Solo Leveling
+- Soul Eater (ep 8)
+- Spy × Family (ep 5)
+- Steins;Gate (ep 13)
+- Sword Art Online
+- Talentless Nana
+- Tamon's B-Side
+- Tearmoon Empire
+- That Time I Got Reincarnated as a Slime
+- Slime Diaries, The
+- Apothecary Diaries, The
+- Devil Is a Part-Timer!, The
+- Disastrous Life of Saiki K., The
+- Eminence in Shadow, The
+- Familiar of Zero, The
+- Future Diary, The
+- Irresponsible Captain Tylor, The
+- Magical Revolution of the Reincarnated Princess and the Genius Young Lady, The
+- Melancholy of Haruhi Suzumiya, The
+- Melancholy of Haruhi Suzumiya (film), The
+- Disappearance of Nagato Yuki-chan, The
+- Red Ranger Becomes an Adventurer in Another World, The
+- World Ends with You: The Animation, The
+- To Be Hero X
+- To Your Eternity
+- Tokyo Ghoul
+- Toradora!
+- Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs
+- Villainess Level 99
+- Vivy: Fluorite Eye's Song
+- Welcome to Demon School! Iruma-kun
+- Yona of the Dawn
+- Your Name.
+- Yu Yu Hakusho
+- ZENSHU
+- Zombie Land Saga
 
 ## Comics
+- Omniscient Reader's Viewpoint
+- Solo Leveling
+- Adventures of Tintin, The
 
 ## Web Media
+- CGP Grey
+- Dragon Ball Z Abridged
+- Garfield Minus Garfield
+- Marble Hornets
+- Rainbow Dash Presents
+- Sonic: Nazo Unleashed
+- Super Mario Bros. Z
+- Sword Art Online Abridged
+- There she is!!
+- Turnabout Storm
 

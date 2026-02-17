@@ -67,8 +67,12 @@ def add_entry(
 
     existing_franchises = {series_name for entry in existing_category
                            if (series_name := entry['series']) is not None}
-    possible_franchises = [series_name for series_name in existing_franchises
-                           if series_name in title]
+    series_regex = re.compile(r'^([^\\(]+)')
+    possible_franchises = [
+        series_name for series_name in existing_franchises
+        if (reg_match := re.match(series_regex, series_name)) is not None
+        if reg_match.group(0) in title
+    ]
     series_temp = None
     if possible_franchises:
         series_options = possible_franchises + ['NONE', 'CUSTOM']
@@ -156,13 +160,15 @@ def create_markdown(json_data: Mapping[str, Sequence[MediaEntry]]) -> None:
             series_groups: dict[str, list[MediaEntry]] = {}
             for entry in entries:
                 series_groups.setdefault(entry['series'], []).append(entry)
-            title_to_sort_by = lambda group: group[0].get('title_override') or group[0]['title']
+            def title_to_sort_by(group: list[MediaEntry]) -> str:
+                group.sort(key=lambda d: d['series_sort'])
+                title = group[0].get('series') or group[0]['title']
+                return title.casefold()
             sorted_series = sorted(
                 series_groups.values(),
                 key=title_to_sort_by
             )
             for group in sorted_series:
-                group.sort(key=lambda d: d['series_sort'])
                 for entry in group:
                     title_to_use = entry.get('title_override') or entry['title']
                     if title_to_use.startswith(('The ', 'A ', 'An ')):
