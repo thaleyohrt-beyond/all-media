@@ -1637,6 +1637,12 @@
             "series": "Knives Out",
             "series_sort": 2,
             "title_override": null
+        },
+        {
+            "title": "Boogeyman",
+            "series": "Boogeyman",
+            "series_sort": 0,
+            "title_override": null
         }
     ],
     "Animated Movies": [
@@ -2911,13 +2917,13 @@
         {
             "title": "Super Paper Mario",
             "series": "Paper Mario",
-            "series_sort": 0,
+            "series_sort": 1,
             "title_override": null
         },
         {
             "title": "Paper Mario: The Origami King",
             "series": "Paper Mario",
-            "series_sort": 1,
+            "series_sort": 2,
             "title_override": null
         },
         {
@@ -3967,6 +3973,12 @@
         {
             "title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
             "series": "Pok\u00e9mon Mystery Dungeon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Paper Mario",
+            "series": "Paper Mario",
             "series_sort": 0,
             "title_override": null
         }
@@ -5605,6 +5617,12 @@
         {
             "title": "I'm in Love with the Villainess",
             "series": "I'm in Love with the Villainess",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Magilumiere Magical Girls Inc.",
+            "series": "Magilumiere Magical Girls Inc.",
             "series_sort": 0,
             "title_override": null
         }
