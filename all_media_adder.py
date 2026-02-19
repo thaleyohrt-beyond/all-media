@@ -1,6 +1,8 @@
 import json
 import re
-from collections.abc import Mapping, Sequence
+from collections import defaultdict
+from collections.abc import Mapping, MutableSequence, Sequence
+from os import PathLike
 from pathlib import Path
 from typing import TypedDict, cast
 
@@ -19,9 +21,9 @@ class MediaEntry(TypedDict):
 
 
 def add_entry(
-    json_data: dict[str, list[MediaEntry]],
+    json_data: Mapping[str, MutableSequence[MediaEntry]],
     include_title_override: bool = False,
-):
+) -> None:
     categories = list(json_data.keys())
     questions = [
         inquirer.List(
@@ -154,33 +156,40 @@ def add_entry(
 
 def create_markdown(
     json_data: Mapping[str, Sequence[MediaEntry]],
-    export_path: str = 'all_media.md',
+    export_path: PathLike | str = 'all_media.md',
 ) -> None:
+
+    def title_to_sort_by(group: list[MediaEntry]) -> str:
+        group.sort(key=lambda d: d['series_sort'])
+        title = group[0].get('series') or group[0]['title']
+        if title.startswith(('The ', 'A ', 'An ')):
+            article, rest = title.split(' ', 1)
+            title = f'{rest}, {article}'
+        return title.casefold()
+
+    category_titles = defaultdict[str, list[str]](list)
+    for category, entries in json_data.items():
+        series_groups: dict[str, list[MediaEntry]] = {}
+        for entry in entries:
+            series_groups.setdefault(entry['series'], []).append(entry)
+        sorted_series = sorted(
+            series_groups.values(),
+            key=title_to_sort_by
+        )
+        for group in sorted_series:
+            for entry in group:
+                title_to_use = entry.get('title_override') or entry['title']
+                if title_to_use.startswith(('The ', 'A ', 'An ')):
+                    article, rest = title_to_use.split(' ', 1)
+                    title_to_use = f'{rest}, {article}'
+                category_titles[category].append(title_to_use)
+
     with open(export_path, mode='w', encoding='utf8') as f:
         f.write('# All Media\n\n')
-        for category, entries in json_data.items():
+        for category, title_list in category_titles.items():
             f.write(f'## {category}\n')
-            series_groups: dict[str, list[MediaEntry]] = {}
-            for entry in entries:
-                series_groups.setdefault(entry['series'], []).append(entry)
-            def title_to_sort_by(group: list[MediaEntry]) -> str:
-                group.sort(key=lambda d: d['series_sort'])
-                title = group[0].get('series') or group[0]['title']
-                if title.startswith(('The ', 'A ', 'An ')):
-                    article, rest = title.split(' ', 1)
-                    title = f'{rest}, {article}'
-                return title.casefold()
-            sorted_series = sorted(
-                series_groups.values(),
-                key=title_to_sort_by
-            )
-            for group in sorted_series:
-                for entry in group:
-                    title_to_use = entry.get('title_override') or entry['title']
-                    if title_to_use.startswith(('The ', 'A ', 'An ')):
-                        article, rest = title_to_use.split(' ', 1)
-                        title_to_use = f'{rest}, {article}'
-                    f.write(f'- {title_to_use}\n')
+            for title in title_list:
+                f.write(f'- {title}\n')
             f.write('\n')
 
 
@@ -191,12 +200,12 @@ def main():
     try:
         while True:
             add_entry(existing_json)
-            res = input('Done! Add another? (y/n): ')
-            if res.casefold() != 'y':
+            res = input('Done! Add another? (Y/n): ')
+            if res.casefold() == 'n':
                 break
     except UserCancel:
-        res = input('Save unsaved work? (y/n): ')
-        if res.casefold() != 'y':
+        res = input('Save unsaved work? (Y/n): ')
+        if res.casefold() == 'n':
             return
     export_path = r'C:\Users\tomas\My Drive\Personal\Documents\All Media.md'
     create_markdown(existing_json, export_path=export_path)
