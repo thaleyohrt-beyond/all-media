@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import TypedDict, cast
 
 import inquirer
+from inquirer.questions import Question
 
 
 class UserCancel(Exception): pass
@@ -16,31 +17,32 @@ class MediaEntry(TypedDict):
     title: str
     series: str
     series_sort: int
-    # year_experienced: int | None
     title_override: str | None
 
 
 def add_entry(
     json_data: Mapping[str, MutableSequence[MediaEntry]],
+    category: str = '',
+    series: str = '',
     include_title_override: bool = False,
-) -> None:
+) -> tuple[str, MediaEntry] | None:
     categories = list(json_data.keys())
-    questions = [
-        inquirer.List(
-            name='category',
-            message="Category",
-            choices=categories,
-        ),
+    questions: list[Question] = []
+    if not category:
+        questions.append(
+            inquirer.List(
+                name='category',
+                message="Category",
+                choices=categories,
+            )
+        )
+    questions.append(
         inquirer.Text(
             name='title',
-            message='Title'
+            message='Title',
+            validate=lambda _, s: len(s.strip()) > 0 
         ),
-        # inquirer.Text(
-        #     name='year_experienced',
-        #     message='Year Experienced',
-        #     validate=lambda _, x: re.match(r'^$|\d{4}', x)
-        # )
-    ]
+    )
     if include_title_override:
         questions.append(
             inquirer.Text(
@@ -52,11 +54,8 @@ def add_entry(
     if answers is None:
         raise UserCancel
     answers = cast(dict[str, str], answers)
-    category = answers['category'].strip()
+    category = category or answers['category'].strip()
     title = answers['title'].strip()
-    # year_experienced_raw = answers['year_experienced'].strip()
-    # year_experienced = (int(year_experienced_raw)
-    #                     if year_experienced_raw else None)
     title_override = answers.get('title_override', '').strip() or None
     existing_category = json_data[category]
 
@@ -67,45 +66,9 @@ def add_entry(
         print('Already exists.')
         return
 
-    existing_franchises = {series_name for entry in existing_category
-                           if (series_name := entry['series']) is not None}
-    series_regex = re.compile(r'^([^\\(]+)')
-    possible_franchises = [
-        series_name for series_name in existing_franchises
-        if (reg_match := re.match(series_regex, series_name)) is not None
-        if reg_match.group(0) in title
-    ]
-    series_temp = None
-    if possible_franchises:
-        series_options = possible_franchises + ['NONE', 'CUSTOM']
-        questions = [
-            inquirer.List(
-                name='series',
-                message="Series",
-                choices=series_options,
-            ),
-        ]
-        answers = inquirer.prompt(questions)
-        if answers is None:
-            raise UserCancel
-        series_temp = answers['series']
-        if series_temp == 'NONE':
-            series_temp = title
-        elif series_temp == 'CUSTOM':
-            series_temp = None
-    if series_temp is None:
-        questions = [
-            inquirer.Text(
-                name='series',
-                message='Series',
-            ),
-        ]
-        answers = inquirer.prompt(questions)
-        if answers is None:
-            raise UserCancel
-        series_temp = answers['series'] or title
-
-    series = series_temp
+    if not series:
+        series = handle_series(title=title,
+                               category_entries=existing_category)
 
     series_sort = 0
     if series:
@@ -148,10 +111,51 @@ def add_entry(
         title=title,
         series=series,
         series_sort=series_sort,
-        # year_experienced=year_experienced,
         title_override=title_override,
     )
     json_data[category].append(new_entry)
+    return category, new_entry
+
+
+def handle_series(title: str, category_entries: Sequence[MediaEntry]) -> str:
+    existing_franchises = {series_name for entry in category_entries
+                           if (series_name := entry['series']) is not None}
+    series_regex = re.compile(r'^([^\\(]+)')
+    possible_franchises = [
+        series_name for series_name in existing_franchises
+        if (reg_match := re.match(series_regex, series_name)) is not None
+        if reg_match.group(0) in title
+    ]
+    series = None
+    if possible_franchises:
+        series_options = possible_franchises + ['NONE', 'CUSTOM']
+        questions = [
+            inquirer.List(
+                name='series',
+                message="Series",
+                choices=series_options,
+            ),
+        ]
+        answers = inquirer.prompt(questions)
+        if answers is None:
+            raise UserCancel
+        series = answers['series']
+        if series == 'NONE':
+            series = title
+        elif series == 'CUSTOM':
+            series = None
+    if series is None:
+        questions = [
+            inquirer.Text(
+                name='series',
+                message='Series',
+            ),
+        ]
+        answers = inquirer.prompt(questions)
+        if answers is None:
+            raise UserCancel
+        series = answers['series'] or title
+    return series
 
 
 def create_markdown(
@@ -198,11 +202,45 @@ def main():
     with raw_file.open(mode='r', encoding='utf8') as f:
         existing_json: dict[str, list[MediaEntry]] = json.load(f)
     try:
+        category = ''
+        series = ''
         while True:
-            add_entry(existing_json)
-            res = input('Done! Add another? (Y/n): ')
-            if res.casefold() == 'n':
-                break
+            entry_res = add_entry(json_data=existing_json,
+                                  category=category,
+                                  series=series)
+            if entry_res is None:
+                res = input('Continue? (Y/n): ')
+                if res.casefold() == 'n':
+                    return
+                else:
+                    continue
+            selected_category, added_entry = entry_res
+            questions = [
+                inquirer.List(
+                    name='selection',
+                    message="Done! Add another?",
+                    choices=['From the start',
+                             'Same category',
+                             'Same series',
+                             'Exit'],
+                ),
+            ]
+            answers = inquirer.prompt(questions)
+            if answers is None:
+                raise UserCancel
+            match answers['selection']:
+                case 'From the start':
+                    category = ''
+                    series = ''
+                case 'Same category':
+                    category = selected_category
+                    series = ''
+                case 'Same series':
+                    category = selected_category
+                    series = added_entry['series']
+                case 'Exit':
+                    break
+
     except UserCancel:
         res = input('Save unsaved work? (Y/n): ')
         if res.casefold() == 'n':
