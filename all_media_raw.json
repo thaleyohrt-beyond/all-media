@@ -5627,6 +5627,260 @@
             "title_override": null
         }
     ],
+    "Books": [
+        {
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "series": "The Hitchhiker's Guide to the Galaxy",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Restaurant at the End of the Universe",
+            "series": "The Hitchhiker's Guide to the Galaxy",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Life, the Universe, and Everything",
+            "series": "The Hitchhiker's Guide to the Galaxy",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "So Long, and Thanks for All the Fish",
+            "series": "The Hitchhiker's Guide to the Galaxy",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Mostly Harmless",
+            "series": "The Hitchhiker's Guide to the Galaxy",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "And Another Thing...",
+            "series": "The Hitchhiker's Guide to the Galaxy",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Artemis Fowl",
+            "series": "Artemis Fowl",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Artemis Fowl: The Arctic Incident",
+            "series": "Artemis Fowl",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Artemis Fowl: The Eternity Code",
+            "series": "Artemis Fowl",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Artemis Fowl: The Opal Deception",
+            "series": "Artemis Fowl",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Artemis Fowl: The Lost Colony",
+            "series": "Artemis Fowl",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Artemis Fowl: The Time Paradox",
+            "series": "Artemis Fowl",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Bad Radio",
+            "series": "The Emergent Earth",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Blood, Sweat, and Pixels",
+            "series": "Blood, Sweat, and Pixels",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Code",
+            "series": "Code",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Cuckoo's Calling",
+            "series": "Cormoran Strike",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Silkworm",
+            "series": "Cormoran Strike",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Career of Evil",
+            "series": "Cormoran Strike",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Lethal White",
+            "series": "Cormoran Strike",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "The Courtship of Princess Leia",
+            "series": "Star Wars (Legends)",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A Dirty Job",
+            "series": "A Dirty Job",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Storm Front",
+            "series": "The Dresden Files",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Fool Moon",
+            "series": "The Dresden Files",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Ender's Game",
+            "series": "Ender's Game",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Speaker for the Dead",
+            "series": "Ender's Game",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Xenocide",
+            "series": "Ender's Game",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Children of the Mind",
+            "series": "Ender's Game",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Ender in Exile",
+            "series": "Ender's Game",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "First Meetings in Ender's Universe",
+            "series": "Ender's Game",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Ender's Shadow",
+            "series": "Ender's Shadow",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Shadow of the Hegemon",
+            "series": "Ender's Shadow",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Shadow Puppets",
+            "series": "Ender's Shadow",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Shadow of the Giant",
+            "series": "Ender's Shadow",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "The Girl with All the Gifts",
+            "series": "The Girl with All the Gifts",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Giver",
+            "series": "The Giver",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Philosopher's Stone",
+            "series": "Harry Potter",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "series": "Harry Potter",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "series": "Harry Potter",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Goblet of Fire",
+            "series": "Harry Potter",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Order of the Phoenix",
+            "series": "Harry Potter",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Deathly Hallows",
+            "series": "Harry Potter",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Harry Potter and the Half-Blood Prince",
+            "series": "Harry Potter",
+            "series_sort": 5,
+            "title_override": null
+        }
+    ],
     "Comics": [
         {
             "title": "Omniscient Reader's Viewpoint",
