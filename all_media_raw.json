@@ -2927,7 +2927,7 @@
             "title_override": null
         },
         {
-            "title": "Paranormasight",
+            "title": "Paranormasight: The Seven Mysteries of Honjo",
             "series": "Paranormasight",
             "series_sort": 0,
             "title_override": null
@@ -3980,6 +3980,12 @@
             "title": "Paper Mario",
             "series": "Paper Mario",
             "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Paranormasight: The Mermaid's Curse",
+            "series": "Paranormasight",
+            "series_sort": 1,
             "title_override": null
         }
     ],
@@ -5797,7 +5803,7 @@
             "title_override": null
         },
         {
-            "title": "First Meetings in Ender's Universe",
+            "title": "First Meetings",
             "series": "Ender's Game",
             "series_sort": 5,
             "title_override": null
@@ -5878,6 +5884,228 @@
             "title": "Harry Potter and the Half-Blood Prince",
             "series": "Harry Potter",
             "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Holes",
+            "series": "Holes",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Hunger Games",
+            "series": "The Hunger Games",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Catching Fire",
+            "series": "The Hunger Games",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Inkheart",
+            "series": "Inkheart",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Inkspell",
+            "series": "Inkheart",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Inkdeath",
+            "series": "Inkheart",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Machine of Death",
+            "series": "Machine of Death",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "This Is How You Die",
+            "series": "Machine of Death",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Magician's Nephew",
+            "series": "Narnia",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Lion, the Witch, and the Wardrobe",
+            "series": "Narnia",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Man Who Ended the World",
+            "series": "The Man Who Ended the World",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Martian",
+            "series": "The Martian",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Maze Runner",
+            "series": "The Maze Runner",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Mort",
+            "series": "Discworld",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Nineteen Eighty-Four",
+            "series": "Nineteen Eighty-Four",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Postman",
+            "series": "The Postman",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Project Hail Mary",
+            "series": "Project Hail Mary",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Q&A",
+            "series": "Q&A",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Merchant of Death",
+            "series": "Pendragon",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Lost City of Faar",
+            "series": "Pendragon",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "The Never War",
+            "series": "Pendragon",
+            "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "The Reality Bug",
+            "series": "Pendragon",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Black Water",
+            "series": "Pendragon",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "The Rivers of Zadaa",
+            "series": "Pendragon",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "The Quillan Games",
+            "series": "Pendragon",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "The Pilgrims of Rayne",
+            "series": "Pendragon",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "Raven Rise",
+            "series": "Pendragon",
+            "series_sort": 8,
+            "title_override": null
+        },
+        {
+            "title": "The Soliders of Halla",
+            "series": "Pendragon",
+            "series_sort": 9,
+            "title_override": null
+        },
+        {
+            "title": "The Thief Lord",
+            "series": "The Thief Lord",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Three-Body Problem",
+            "series": "The Three-Body Problem",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "A War of Gifts",
+            "series": "Ender's Game",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "When It Was Worth Playing For",
+            "series": "When It Was Worth Playing For",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Worm",
+            "series": "Worm",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The ABC Murders",
+            "series": "Poirot",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "After the Funeral",
+            "series": "Poirot",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "And Then There Were None",
+            "series": "And Then There Were None",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Cards on the Table",
+            "series": "Poirot",
+            "series_sort": 2,
             "title_override": null
         }
     ],
