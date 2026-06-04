@@ -9,6 +9,8 @@ from typing import TypedDict, cast
 import inquirer
 from inquirer.questions import Question
 
+MD_EXPORT_PATH = r'C:\Users\tomas\My Drive\Personal\Documents\All Media.md'
+
 
 class UserCancel(Exception): pass
 
@@ -126,7 +128,7 @@ def handle_series(title: str, category_entries: Sequence[MediaEntry]) -> str:
         if (reg_match := re.match(series_regex, series_name)) is not None
         if reg_match.group(0) in title
     ]
-    series = None
+    series: str | None = None
     if possible_franchises:
         series_options = possible_franchises + ['NONE', 'CUSTOM']
         questions = [
@@ -245,8 +247,7 @@ def main():
         res = input('Save unsaved work? (Y/n): ')
         if res.casefold() == 'n':
             return
-    export_path = r'C:\Users\tomas\My Drive\Personal\Documents\All Media.md'
-    create_markdown(existing_json, export_path=export_path)
+    create_markdown(existing_json, export_path=MD_EXPORT_PATH)
     with raw_file.open(mode='w', encoding='utf-8') as f:
         json.dump(existing_json, f, indent=4)
     print('Saved!')
