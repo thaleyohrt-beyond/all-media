@@ -1643,6 +1643,12 @@
             "series": "Boogeyman",
             "series_sort": 0,
             "title_override": null
+        },
+        {
+            "title": "Project Hail Mary",
+            "series": "Project Hail Mary",
+            "series_sort": 0,
+            "title_override": null
         }
     ],
     "Animated Movies": [
@@ -2623,13 +2629,13 @@
         {
             "title": "Luigi's Mansion: Dark Moon",
             "series": "Luigi's Mansion",
-            "series_sort": 0,
+            "series_sort": 1,
             "title_override": null
         },
         {
             "title": "Luigi's Mansion 3",
             "series": "Luigi's Mansion",
-            "series_sort": 1,
+            "series_sort": 2,
             "title_override": null
         },
         {
@@ -3985,6 +3991,42 @@
         {
             "title": "Paranormasight: The Mermaid's Curse",
             "series": "Paranormasight",
+            "series_sort": 1,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon Pokopia",
+            "series": "Pok\u00e9mon",
+            "series_sort": 10,
+            "title_override": null
+        },
+        {
+            "title": "Final Fantasy VII Remake",
+            "series": "Final Fantasy",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Pok\u00e9mon XD: Gale of Darkness",
+            "series": "Pok\u00e9mon",
+            "series_sort": 9,
+            "title_override": null
+        },
+        {
+            "title": "Luigi's Mansion",
+            "series": "Luigi's Mansion",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Pragmata",
+            "series": "Pragmata",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Indiana Jones and the Great Circle",
+            "series": "Indiana Jones (Games)",
             "series_sort": 1,
             "title_override": null
         }
@@ -5631,6 +5673,12 @@
             "series": "Magilumiere Magical Girls Inc.",
             "series_sort": 0,
             "title_override": null
+        },
+        {
+            "title": "Oshi no Ko",
+            "series": "Oshi no Ko",
+            "series_sort": 0,
+            "title_override": null
         }
     ],
     "Books": [
@@ -6106,6 +6154,78 @@
             "title": "Cards on the Table",
             "series": "Poirot",
             "series_sort": 2,
+            "title_override": null
+        },
+        {
+            "title": "Crooked House",
+            "series": "Crooked House",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Curtain: Poirot's Last Case",
+            "series": "Poirot",
+            "series_sort": 3,
+            "title_override": null
+        },
+        {
+            "title": "Death in the Clouds",
+            "series": "Poirot",
+            "series_sort": 4,
+            "title_override": null
+        },
+        {
+            "title": "Death on the Nile",
+            "series": "Poirot",
+            "series_sort": 5,
+            "title_override": null
+        },
+        {
+            "title": "Endless Night",
+            "series": "Endless Night",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "Five Little Pigs",
+            "series": "Poirot",
+            "series_sort": 6,
+            "title_override": null
+        },
+        {
+            "title": "Hercule Poirot's Christmas",
+            "series": "Poirot",
+            "series_sort": 7,
+            "title_override": null
+        },
+        {
+            "title": "The Hollow",
+            "series": "Poirot",
+            "series_sort": 8,
+            "title_override": null
+        },
+        {
+            "title": "A Murder Is Announced",
+            "series": "Miss Marple",
+            "series_sort": 0,
+            "title_override": null
+        },
+        {
+            "title": "The Murder of Roger Ackroyd",
+            "series": "Poirot",
+            "series_sort": 9,
+            "title_override": null
+        },
+        {
+            "title": "Murder on the Orient Express",
+            "series": "Poirot",
+            "series_sort": 10,
+            "title_override": null
+        },
+        {
+            "title": "Peril at End House",
+            "series": "Poirot",
+            "series_sort": 11,
             "title_override": null
         }
     ],
